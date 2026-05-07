@@ -5,7 +5,7 @@ import os
 # Cấu hình từ GitHub Secrets
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "B5UEdm8kEDFzwkFELx8X"
+RECIPE_ID = "9NY3uXswUumysee6ywMG"
 
 def get_tmdb(name):
     """Lấy ảnh và năm phát hành từ TMDB"""
