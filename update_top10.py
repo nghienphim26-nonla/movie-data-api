@@ -6,7 +6,7 @@ import os
 # Cấu hình từ GitHub Secrets
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "B5UEdm8kEDFzwkFELx8X"
+RECIPE_ID = "Fd9BZ7Gxl59ooovbUyTQ"
 
 def run_ss():
     """Kích hoạt Simplescraper"""
