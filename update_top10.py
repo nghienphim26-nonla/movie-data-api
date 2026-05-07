@@ -32,13 +32,24 @@ def run_ss():
         return False
 
 def get_ss_data():
-    """Lấy tên phim từ Simplescraper"""
+    """Lấy tên phim từ Simplescraper dựa trên cột 'tenphim'"""
     url = f"https://api.simplescraper.io/v1/recipes/{RECIPE_ID}/last_run?apikey={SS_API_KEY}"
     try:
-        data = requests.get(url).json().get("data", [])
-        # Lấy cột 'title' hoặc 'name'. Hãy đảm bảo tên cột trong SS là 'title'
-        return [item.get("tenphim") for item in data if item.get("title")][:10]
-    except: return []
+        response = requests.get(url)
+        full_res = response.json()
+        data = full_res.get("data", [])
+        
+        # Sửa từ 'title' thành 'tenphim' theo đúng log của bạn
+        movie_names = []
+        for item in data:
+            name = item.get("tenphim")
+            if name:
+                movie_names.append(name.strip())
+        
+        return movie_names[:10]
+    except Exception as e:
+        print(f"❌ Lỗi lấy dữ liệu: {e}")
+        return []
 
 def get_tmdb(name):
     """Lấy ảnh và info từ TMDB"""
@@ -57,16 +68,31 @@ def get_tmdb(name):
     except: return None
 
 def main():
-    if run_ss():
-        names = get_ss_data()
-        print(f"🎬 Đã cào được: {names}")
-        
-        final_list = []
-        for i, n in enumerate(names, 1):
-            info = get_tmdb(n)
-            if info:
-                info['rank'] = i
-                final_list.append(info)
+    # Gọi Simplescraper
+    run_ss() 
+    
+    # Lấy dữ liệu
+    names = get_ss_data()
+    print(f"🎬 Đã tìm thấy các tên phim: {names}")
+    
+    if not names:
+        print("❌ Không tìm thấy phim nào trong cột 'tenphim'. Hãy kiểm tra lại Recipe!")
+        return
+
+    final_list = []
+    for i, n in enumerate(names, 1):
+        info = get_tmdb(n)
+        if info:
+            info['rank'] = i
+            final_list.append(info)
+        else:
+            # Nếu TMDB không thấy, vẫn lưu tên phim từ Simplescraper
+            final_list.append({"title": n, "rank": i, "note": "Không tìm thấy ảnh trên TMDB"})
+    
+    # Lưu file
+    with open('top10.json', 'w', encoding='utf-8') as f:
+        json.dump(final_list, f, ensure_ascii=False, indent=4)
+    print("✅ Đã tạo file top10.json thành công!")
         
         if final_list:
             with open('top10.json', 'w', encoding='utf-8') as f:
