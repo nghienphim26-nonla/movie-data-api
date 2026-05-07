@@ -1,0 +1,27 @@
+name: Auto Scrape
+on:
+  schedule:
+    - cron: '0 1 * * *' # Chạy lúc 8h sáng VN mỗi ngày
+  workflow_dispatch: # Nút bấm chạy tay
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run script
+        env:
+          SIMPLESCRAPER_API_KEY: ${{ secrets.SIMPLESCRAPER_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python update_top10.py
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
