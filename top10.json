@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "title": "Điều ước đoạt mạng",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+        "tmdb_id": 285838,
+        "type": "tv",
+        "rank": 1
+    },
+    {
+        "title": "Người đỡ đạn",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+        "tmdb_id": 223386,
+        "type": "tv",
+        "rank": 2
+    },
+    {
+        "title": "Hôm Nay Lại Bán Hết",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+        "tmdb_id": 287011,
+        "type": "tv",
+        "rank": 3
+    },
+    {
+        "title": "Luật Sư Bóng Ma",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/5SJuxX2g5kWMZBq0jEjWV02L2c2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/p98XiePTvNrXegxyKc6n46UJD85.jpg",
+        "tmdb_id": 281010,
+        "type": "tv",
+        "rank": 4
+    },
+    {
+        "title": "Xưởng Phép Thuật",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+        "tmdb_id": 196950,
+        "type": "tv",
+        "rank": 5
+    },
+    {
+        "title": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+        "tmdb_id": 318262,
+        "type": "tv",
+        "rank": 6
+    },
+    {
+        "title": "Bloodhounds",
+        "year": "1996",
+        "poster": "https://image.tmdb.org/t/p/w500/q4HljCu9444KiL1WnIIkMVKoDxH.jpg",
+        "backdrop": null,
+        "tmdb_id": 437453,
+        "type": "movie",
+        "rank": 7
+    },
+    {
+        "title": "ONE PIECE",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w500/kdAOhC8IIS5jqzruRk7To3AEsHH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+        "tmdb_id": 111110,
+        "type": "tv",
+        "rank": 8
+    },
+    {
+        "title": "Wistoria: Trượng và Kiếm",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+        "tmdb_id": 245842,
+        "type": "tv",
+        "rank": 9
+    },
+    {
+        "title": "転生したらスライムだった件 転スラ日記",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
+        "tmdb_id": 118541,
+        "type": "tv",
+        "rank": 10
+    }
+]
