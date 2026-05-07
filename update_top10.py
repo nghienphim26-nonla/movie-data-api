@@ -3,45 +3,42 @@ import time
 import json
 import os
 
-# Lấy cấu hình từ GitHub Secrets
+# Cấu hình từ GitHub Secrets
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "B5UEdm8kEDFzwkFELx8X"
+RECIPE_ID = "Fd9BZ7Gxl59ooovbUyTQ"
 
 def run_ss():
-    """Kích hoạt Simplescraper và in lỗi nếu có"""
+    """Kích hoạt Simplescraper"""
     if not SS_API_KEY:
-        print("❌ Lỗi: Không tìm thấy SIMPLESCRAPER_API_KEY trong Secrets!")
+        print("❌ Thiếu SIMPLESCRAPER_API_KEY")
         return False
-        
     url = f"https://api.simplescraper.io/v1/recipes/{RECIPE_ID}/run?apikey={SS_API_KEY}"
     try:
         res = requests.get(url)
-        res_data = res.json()
-        
-        if res.status_code == 200 and res_data.get("status") == "success":
-            print(f"✅ Đã kích hoạt Simplescraper thành công! Execution ID: {res_data.get('execution_id')}")
-            print("⏳ Đợi 60s để máy chủ Simplescraper xử lý...")
+        if res.status_code == 200:
+            print("🚀 Đã kích hoạt Simplescraper. Đợi 60s...")
             time.sleep(60)
             return True
-        else:
-            print(f"❌ Simplescraper từ chối lệnh! Phản hồi: {res_data}")
-            return False
     except Exception as e:
-        print(f"❌ Lỗi kết nối đến Simplescraper: {e}")
-        return False
+        print(f"❌ Lỗi kích hoạt: {e}")
+    return False
 
 def get_ss_data():
-    """Lấy tên phim từ Simplescraper"""
+    """Lấy danh sách phim từ Simplescraper (cột tenphim)"""
     url = f"https://api.simplescraper.io/v1/recipes/{RECIPE_ID}/last_run?apikey={SS_API_KEY}"
     try:
-        data = requests.get(url).json().get("data", [])
-        # Lấy cột 'title' hoặc 'name'. Hãy đảm bảo tên cột trong SS là 'title'
-        return [item.get("tenphim") for item in data if item.get("title")][:10]
-    except: return []
+        res = requests.get(url).json()
+        data = res.get("data", [])
+        # Lấy cột 'tenphim' theo đúng log thực tế của bạn
+        return [item.get("tenphim").strip() for item in data if item.get("tenphim")][:10]
+    except Exception as e:
+        print(f"❌ Lỗi lấy data: {e}")
+        return []
 
 def get_tmdb(name):
-    """Lấy ảnh và info từ TMDB"""
+    """Lấy ảnh từ TMDB"""
+    if not TMDB_API_KEY: return None
     url = f"https://api.themoviedb.org/3/search/multi?api_key={TMDB_API_KEY}&query={name}&language=vi-VN"
     try:
         res = requests.get(url).json()
@@ -49,29 +46,42 @@ def get_tmdb(name):
             item = res['results'][0]
             return {
                 "title": item.get("title") or item.get("name"),
-                "poster": f"https://image.tmdb.org/t/p/w500{item.get('poster_path')}",
-                "backdrop": f"https://image.tmdb.org/t/p/original{item.get('backdrop_path')}",
-                "id": item["id"],
+                "poster": f"https://image.tmdb.org/t/p/w500{item.get('poster_path')}" if item.get('poster_path') else None,
+                "backdrop": f"https://image.tmdb.org/t/p/original{item.get('backdrop_path')}" if item.get('backdrop_path') else None,
+                "tmdb_id": item.get("id"),
                 "type": item.get("media_type", "movie")
             }
-    except: return None
+    except:
+        return None
 
 def main():
-    if run_ss():
-        names = get_ss_data()
-        print(f"🎬 Đã cào được: {names}")
-        
-        final_list = []
-        for i, n in enumerate(names, 1):
-            info = get_tmdb(n)
-            if info:
-                info['rank'] = i
-                final_list.append(info)
-        
-        if final_list:
-            with open('top10.json', 'w', encoding='utf-8') as f:
-                json.dump(final_list, f, ensure_ascii=False, indent=4)
-            print("✅ Đã cập nhật top10.json")
+    # Bước 1: Kích hoạt cào
+    run_ss()
+    
+    # Bước 2: Lấy dữ liệu tên phim
+    names = get_ss_data()
+    print(f"🎬 Tên phim tìm thấy: {names}")
+    
+    if not names:
+        print("❌ Không có dữ liệu phim.")
+        return
+
+    # Bước 3: Mix với TMDB
+    final_list = []
+    for i, name in enumerate(names, 1):
+        info = get_tmdb(name)
+        if info:
+            info['rank'] = i
+            final_list.append(info)
+        else:
+            # Dự phòng nếu TMDB không tìm thấy
+            final_list.append({"title": name, "rank": i, "status": "no_tmdb_data"})
+
+    # Bước 4: Lưu file JSON
+    if final_list:
+        with open('top10.json', 'w', encoding='utf-8') as f:
+            json.dump(final_list, f, ensure_ascii=False, indent=4)
+        print("✅ Đã cập nhật file top10.json thành công!")
 
 if __name__ == "__main__":
     main()
