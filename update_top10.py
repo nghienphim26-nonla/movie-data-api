@@ -37,7 +37,7 @@ def get_ss_data():
     try:
         data = requests.get(url).json().get("data", [])
         # Lấy cột 'title' hoặc 'name'. Hãy đảm bảo tên cột trong SS là 'title'
-        return [item.get("title") for item in data if item.get("title")][:10]
+        return [item.get("tenphim") for item in data if item.get("title")][:10]
     except: return []
 
 def get_tmdb(name):
