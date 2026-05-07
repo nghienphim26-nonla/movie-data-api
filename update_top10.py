@@ -6,19 +6,30 @@ import os
 # Lấy cấu hình từ GitHub Secrets
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "Fd9BZ7Gxl59ooovbUyTQ"
+RECIPE_ID = "B5UEdm8kEDFzwkFELx8X"
 
 def run_ss():
-    """Kích hoạt Simplescraper"""
+    """Kích hoạt Simplescraper và in lỗi nếu có"""
+    if not SS_API_KEY:
+        print("❌ Lỗi: Không tìm thấy SIMPLESCRAPER_API_KEY trong Secrets!")
+        return False
+        
     url = f"https://api.simplescraper.io/v1/recipes/{RECIPE_ID}/run?apikey={SS_API_KEY}"
     try:
         res = requests.get(url)
-        if res.status_code == 200:
-            print("🚀 Đã ra lệnh cho Simplescraper. Đợi 60s để hoàn tất...")
+        res_data = res.json()
+        
+        if res.status_code == 200 and res_data.get("status") == "success":
+            print(f"✅ Đã kích hoạt Simplescraper thành công! Execution ID: {res_data.get('execution_id')}")
+            print("⏳ Đợi 60s để máy chủ Simplescraper xử lý...")
             time.sleep(60)
             return True
-    except: pass
-    return False
+        else:
+            print(f"❌ Simplescraper từ chối lệnh! Phản hồi: {res_data}")
+            return False
+    except Exception as e:
+        print(f"❌ Lỗi kết nối đến Simplescraper: {e}")
+        return False
 
 def get_ss_data():
     """Lấy tên phim từ Simplescraper"""
