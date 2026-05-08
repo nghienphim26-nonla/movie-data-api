@@ -1,8 +1,7 @@
 name: Auto Scrape
 on:
   schedule:
-    # 05:00 UTC = 12:00 PM (Trưa) giờ Việt Nam
-    - cron: '0 5 * * *' 
+    - cron: '37 5 * * *' 
   workflow_dispatch: # Vẫn giữ nút này để bạn bấm chạy tay khi cần
 
 jobs:
