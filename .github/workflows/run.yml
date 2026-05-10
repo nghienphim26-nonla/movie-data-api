@@ -1,7 +1,7 @@
 name: Auto Scrape
 on:
   schedule:
-    - cron: '37 5 * * *' 
+    - cron: '30 17 * * *' 
   workflow_dispatch: # Vẫn giữ nút này để bạn bấm chạy tay khi cần
 
 jobs:
