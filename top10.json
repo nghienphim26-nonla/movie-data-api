@@ -36,20 +36,20 @@
         "rank": 4
     },
     {
+        "title": "Kẻ Thù Hoàng Gia Của Tôi",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+        "tmdb_id": 303143,
+        "type": "tv",
+        "rank": 5
+    },
+    {
         "title": "Xưởng Phép Thuật",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
         "tmdb_id": 196950,
-        "type": "tv",
-        "rank": 5
-    },
-    {
-        "title": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
-        "tmdb_id": 318262,
         "type": "tv",
         "rank": 6
     },
@@ -63,12 +63,12 @@
         "rank": 7
     },
     {
-        "title": "Straight to Hell",
-        "year": "1987",
-        "poster": "https://image.tmdb.org/t/p/w500/n024xDQXXjtabakNYdRtRKCyvEd.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg",
-        "tmdb_id": 9698,
-        "type": "movie",
+        "title": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+        "tmdb_id": 318262,
+        "type": "tv",
         "rank": 8
     },
     {
@@ -81,12 +81,12 @@
         "rank": 9
     },
     {
-        "title": "Cuộc Chiến Trong Chúng Ta",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-        "tmdb_id": 289424,
-        "type": "tv",
+        "title": "Straight to Hell",
+        "year": "1987",
+        "poster": "https://image.tmdb.org/t/p/w500/n024xDQXXjtabakNYdRtRKCyvEd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg",
+        "tmdb_id": 9698,
+        "type": "movie",
         "rank": 10
     }
 ]
