@@ -1,12 +1,21 @@
 [
     {
+        "title": "Kẻ Thù Hoàng Gia Của Tôi",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+        "tmdb_id": 303143,
+        "type": "tv",
+        "rank": 1
+    },
+    {
         "title": "Điều ước đoạt mạng",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
         "tmdb_id": 285838,
         "type": "tv",
-        "rank": 1
+        "rank": 2
     },
     {
         "title": "Hôm Nay Lại Bán Hết",
@@ -15,7 +24,7 @@
         "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
         "tmdb_id": 287011,
         "type": "tv",
-        "rank": 2
+        "rank": 3
     },
     {
         "title": "Người đỡ đạn",
@@ -24,7 +33,7 @@
         "backdrop": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
         "tmdb_id": 223386,
         "type": "tv",
-        "rank": 3
+        "rank": 4
     },
     {
         "title": "Luật Sư Bóng Ma",
@@ -33,43 +42,16 @@
         "backdrop": "https://image.tmdb.org/t/p/original/p98XiePTvNrXegxyKc6n46UJD85.jpg",
         "tmdb_id": 281010,
         "type": "tv",
-        "rank": 4
-    },
-    {
-        "title": "Kẻ Thù Hoàng Gia Của Tôi",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-        "tmdb_id": 303143,
-        "type": "tv",
         "rank": 5
     },
     {
-        "title": "Xưởng Phép Thuật",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-        "tmdb_id": 196950,
+        "title": "転生したらスライムだった件 転スラ日記",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
+        "tmdb_id": 118541,
         "type": "tv",
         "rank": 6
-    },
-    {
-        "title": "Bloodhounds",
-        "year": "1996",
-        "poster": "https://image.tmdb.org/t/p/w500/q4HljCu9444KiL1WnIIkMVKoDxH.jpg",
-        "backdrop": null,
-        "tmdb_id": 437453,
-        "type": "movie",
-        "rank": 7
-    },
-    {
-        "title": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
-        "tmdb_id": 318262,
-        "type": "tv",
-        "rank": 8
     },
     {
         "title": "ONE PIECE",
@@ -78,7 +60,16 @@
         "backdrop": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "tmdb_id": 111110,
         "type": "tv",
-        "rank": 9
+        "rank": 7
+    },
+    {
+        "title": "Xưởng Phép Thuật",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+        "tmdb_id": 196950,
+        "type": "tv",
+        "rank": 8
     },
     {
         "title": "Straight to Hell",
@@ -87,6 +78,15 @@
         "backdrop": "https://image.tmdb.org/t/p/original/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg",
         "tmdb_id": 9698,
         "type": "movie",
+        "rank": 9
+    },
+    {
+        "title": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+        "tmdb_id": 318262,
+        "type": "tv",
         "rank": 10
     }
 ]
