@@ -45,13 +45,22 @@
         "rank": 5
     },
     {
+        "title": "Straight to Hell",
+        "year": "1987",
+        "poster": "https://image.tmdb.org/t/p/w500/n024xDQXXjtabakNYdRtRKCyvEd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg",
+        "tmdb_id": 9698,
+        "type": "movie",
+        "rank": 6
+    },
+    {
         "title": "転生したらスライムだった件 転スラ日記",
         "year": "2021",
         "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
         "tmdb_id": 118541,
         "type": "tv",
-        "rank": 6
+        "rank": 7
     },
     {
         "title": "ONE PIECE",
@@ -60,33 +69,24 @@
         "backdrop": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
         "tmdb_id": 111110,
         "type": "tv",
-        "rank": 7
-    },
-    {
-        "title": "Xưởng Phép Thuật",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-        "tmdb_id": 196950,
-        "type": "tv",
         "rank": 8
     },
     {
-        "title": "Straight to Hell",
-        "year": "1987",
-        "poster": "https://image.tmdb.org/t/p/w500/n024xDQXXjtabakNYdRtRKCyvEd.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg",
-        "tmdb_id": 9698,
-        "type": "movie",
+        "title": "Cuộc Chiến Trong Chúng Ta",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+        "tmdb_id": 289424,
+        "type": "tv",
         "rank": 9
     },
     {
-        "title": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
-        "tmdb_id": 318262,
-        "type": "tv",
+        "title": "Bloodhounds",
+        "year": "1996",
+        "poster": "https://image.tmdb.org/t/p/w500/q4HljCu9444KiL1WnIIkMVKoDxH.jpg",
+        "backdrop": null,
+        "tmdb_id": 437453,
+        "type": "movie",
         "rank": 10
     }
 ]
