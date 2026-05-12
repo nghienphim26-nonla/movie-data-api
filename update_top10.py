@@ -5,7 +5,7 @@ import os
 # Cấu hình từ GitHub Secrets
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "9NY3uXswUumysee6ywMG"
+RECIPE_ID = "vh7t7ZZedA3BQfYbZn2X"
 
 # --- BẢNG SỬA LỖI THỦ CÔNG ---
 # Nếu TMDB tìm sai phim nào, bạn lấy ID trên web tmdb.org rồi điền vào đây.
