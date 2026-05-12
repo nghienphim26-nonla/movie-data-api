@@ -1,20 +1,20 @@
 {
     "movies": [
         {
-            "title": "Cuộc phiêu lưu tiến hóa",
+            "title": "Cuộc Phiêu Lưu Biến Hóa",
             "year": "2026",
-            "poster": "https://www.themoviedb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "tmdb_id": 1007757,
             "type": "movie",
             "rank": 1
         },
         {
-            "title": "Apex",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/4gKxQIW91hOTELjY5lzjMbLoGxB.jpg",
-            "tmdb_id": 763164,
+            "title": "Săn Mạng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/W500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+            "tmdb_id": 1318447,
             "type": "movie",
             "rank": 2
         },
@@ -28,10 +28,10 @@
             "rank": 3
         },
         {
-            "title": "TRAP",
-            "year": "2023",
-            "poster": "https://image.tmdb.org/t/p/w500/svoBNcSzJXkjRG9IG2WXTM5n3kn.jpg",
-            "backdrop": null,
+            "title": "Bẫy",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lwCdMaj7lo7Cf0Kmu3klf5UxK4Y.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg",
             "tmdb_id": 1028078,
             "type": "movie",
             "rank": 4
