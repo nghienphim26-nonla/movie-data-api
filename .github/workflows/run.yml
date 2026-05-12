@@ -1,25 +1,29 @@
 name: Auto Scrape
 on:
   schedule:
-    - cron: '30 17 * * *' 
-  workflow_dispatch: # Vẫn giữ nút này để bạn bấm chạy tay khi cần
+    - [cite_start]cron: '30 17 * * *' # Chạy tự động hàng ngày [cite: 8]
+  workflow_dispatch: # Cho phép chạy thủ công
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+          
       - name: Install dependencies
         run: pip install requests
+        
       - name: Run script
         env:
           SIMPLESCRAPER_API_KEY: ${{ secrets.SIMPLESCRAPER_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python update_top10.py
-      - name: Deploy to GitHub Pages
+        run: python update_top10.py # Đảm bảo tên file này khớp với file python của bạn
+        
+      - [cite_start]name: Deploy to GitHub Pages [cite: 10]
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
