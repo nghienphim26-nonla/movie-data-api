@@ -11,7 +11,7 @@ RECIPE_ID = "vh7t7ZZedA3BQfYbZn2X"
 # Nếu TMDB tìm sai phim nào, bạn lấy ID trên web tmdb.org rồi điền vào đây.
 # Ví dụ: "Tên phim cào được": ID_TMDB_CHUAN
 MANUAL_MAPPING = {
-    "Straight to Hell": 242095, # Thay số này bằng ID chuẩn của bản bạn muốn (Ví dụ ID: 242095)
+    "Straight to Hell": 300529, # Thay số này bằng ID chuẩn của bản bạn muốn (Ví dụ ID: 242095)
 }
 
 def get_tmdb_by_id(tmdb_id, media_type="movie"):
