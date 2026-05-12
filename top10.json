@@ -1,7 +1,7 @@
 {
     "movies": [
         {
-            "title": "Cuộc phiêu lưu biến hóa",
+            "title": "Cuộc Phiêu Lưu Biến Hóa",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -12,7 +12,7 @@
         {
             "title": "Săn Mạng",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
+            "poster": "https://image.tmdb.org/t/p/W500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
             "tmdb_id": 1318447,
             "type": "movie",
@@ -28,11 +28,11 @@
             "rank": 3
         },
         {
-            "title": "Báo Thủ Báo Nhà",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/e39G8lKvuyvWy7ZoeTMp6LnFJMG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
-            "tmdb_id": 628847,
+            "title": "Bẫy",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lwCdMaj7lo7Cf0Kmu3klf5UxK4Y.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg",
+            "tmdb_id": 1028078,
             "type": "movie",
             "rank": 4
         },
@@ -165,20 +165,20 @@
             "rank": 8
         },
         {
-            "title": "Kathy Griffin: Straight to Hell",
-            "year": "N/A",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 46428,
+            "title": "Thẳng lối xuống địa ngục",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/zJU01gO2x5G6JQHeASTr3fY68ja.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
+            "tmdb_id": 300529,
             "type": "tv",
             "rank": 9
         },
         {
-            "title": "BloodHounds, Inc",
-            "year": "1999",
-            "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
-            "backdrop": null,
-            "tmdb_id": 312502,
+            "title": "Chó Săn Công Lý",
+            "year": "2023",
+            "poster": "https://image.tmdb.org/t/p/w500/mlcqTOYiCtP5E1tfrVDRny0qib9.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+            "tmdb_id": 127529,
             "type": "tv",
             "rank": 10
         }
