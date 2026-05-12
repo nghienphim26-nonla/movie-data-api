@@ -2,17 +2,17 @@ name: Auto Scrape
 on:
   schedule:
     - cron: '30 17 * * *' 
-  workflow_dispatch: 
+  workflow_dispatch: # Nút chạy thủ công sẽ hiện lại khi file này hết lỗi thụt lề
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
@@ -23,10 +23,10 @@ jobs:
         env:
           SIMPLESCRAPER_API_KEY: ${{ secrets.SIMPLESCRAPER_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python update_top10.py
+        run: python update_top10.py # Đảm bảo tên file này khớp với file .py của bạn
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
