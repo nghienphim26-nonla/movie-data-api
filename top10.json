@@ -1,7 +1,7 @@
 {
     "movies": [
         {
-            "title": "Cuộc Phiêu Lưu Biến Hóa",
+            "title": "Cuộc phiêu lưu biến hóa",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -10,9 +10,9 @@
             "rank": 1
         },
         {
-            "title": "Apex",
+            "title": "Săn Mạng",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
             "tmdb_id": 1318447,
             "type": "movie",
@@ -28,13 +28,22 @@
             "rank": 3
         },
         {
-            "title": "Bẫy",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lwCdMaj7lo7Cf0Kmu3klf5UxK4Y.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg",
-            "tmdb_id": 1028078,
+            "title": "Blood and Bone",
+            "year": "2009",
+            "poster": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
+            "tmdb_id": 22164,
             "type": "movie",
             "rank": 4
+        },
+        {
+            "title": "Báo Thủ Báo Nhà",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/e39G8lKvuyvWy7ZoeTMp6LnFJMG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+            "tmdb_id": 628847,
+            "type": "movie",
+            "rank": 5
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -43,7 +52,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
-            "rank": 5
+            "rank": 6
         },
         {
             "title": "Robot Hoang Dã",
@@ -52,7 +61,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
             "tmdb_id": 1184918,
             "type": "movie",
-            "rank": 6
+            "rank": 7
         },
         {
             "title": "28 Năm Sau: Ngôi Đền Tử Thần",
@@ -60,15 +69,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/dGTV0DVizaRh5fAsrtB95FnGSlf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
             "tmdb_id": 1272837,
-            "type": "movie",
-            "rank": 7
-        },
-        {
-            "title": "Lốc Xoáy Tử Thần",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/mzjSARH7deJ7BWqrldNWgzpnRMA.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
-            "tmdb_id": 718821,
             "type": "movie",
             "rank": 8
         },
@@ -138,13 +138,31 @@
             "rank": 5
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "Xưởng Phép Thuật",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+            "tmdb_id": 196950,
             "type": "tv",
             "rank": 6
+        },
+        {
+            "title": "Kathy Griffin: Straight to Hell",
+            "year": "N/A",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 46428,
+            "type": "tv",
+            "rank": 7
+        },
+        {
+            "title": "BloodHounds, Inc",
+            "year": "1999",
+            "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
+            "backdrop": null,
+            "tmdb_id": 312502,
+            "type": "tv",
+            "rank": 8
         },
         {
             "title": "Cuộc Chiến Trong Chúng Ta",
@@ -153,7 +171,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
             "tmdb_id": 289424,
             "type": "tv",
-            "rank": 7
+            "rank": 9
         },
         {
             "title": "ONE PIECE",
@@ -161,24 +179,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/kdAOhC8IIS5jqzruRk7To3AEsHH.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
             "tmdb_id": 111110,
-            "type": "tv",
-            "rank": 8
-        },
-        {
-            "title": "Thẳng lối xuống địa ngục",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/zJU01gO2x5G6JQHeASTr3fY68ja.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/38LmBc9U8VhbOXgS14p8B01xrEJ.jpg",
-            "tmdb_id": 300529,
-            "type": "tv",
-            "rank": 9
-        },
-        {
-            "title": "Chó Săn Công Lý",
-            "year": "2023",
-            "poster": "https://image.tmdb.org/t/p/w500/mlcqTOYiCtP5E1tfrVDRny0qib9.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
-            "tmdb_id": 127529,
             "type": "tv",
             "rank": 10
         }
