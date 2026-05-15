@@ -64,29 +64,29 @@
             "rank": 7
         },
         {
+            "title": "Lính Bắn Tỉa Mỹ",
+            "year": "2014",
+            "poster": "https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+            "tmdb_id": 190859,
+            "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Tôi Là Huyền Thoại",
+            "year": "2007",
+            "poster": "https://image.tmdb.org/t/p/w500/5ZHPCotfGWui6m1X4nkoB0tdKHs.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/aTLq0TMKdsmIy1ZyFM1LfPs326d.jpg",
+            "tmdb_id": 6479,
+            "type": "movie",
+            "rank": 9
+        },
+        {
             "title": "Lốc Xoáy Tử Thần",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/mzjSARH7deJ7BWqrldNWgzpnRMA.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
             "tmdb_id": 718821,
-            "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Bộ Tứ Báo Thủ",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
-            "tmdb_id": 1391703,
             "type": "movie",
             "rank": 10
         }
@@ -102,22 +102,31 @@
             "rank": 1
         },
         {
-            "title": "Điều ước đoạt mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-            "tmdb_id": 285838,
-            "type": "tv",
-            "rank": 2
-        },
-        {
             "title": "Hôm Nay Lại Bán Hết",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
             "type": "tv",
+            "rank": 2
+        },
+        {
+            "title": "Điều ước đoạt mạng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+            "tmdb_id": 285838,
+            "type": "tv",
             "rank": 3
+        },
+        {
+            "title": "Entre padre e hijo",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/pSb46kFE74L62zZVblkst83g9KA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7K4Ywif166vgdB8LK16Vq9CoyMW.jpg",
+            "tmdb_id": 321338,
+            "type": "tv",
+            "rank": 4
         },
         {
             "title": "Luật Sư Bóng Ma",
@@ -125,15 +134,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/5SJuxX2g5kWMZBq0jEjWV02L2c2.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/p98XiePTvNrXegxyKc6n46UJD85.jpg",
             "tmdb_id": 281010,
-            "type": "tv",
-            "rank": 4
-        },
-        {
-            "title": "Người đỡ đạn",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
-            "tmdb_id": 223386,
             "type": "tv",
             "rank": 5
         },
@@ -147,22 +147,13 @@
             "rank": 6
         },
         {
-            "title": "Xưởng Phép Thuật",
+            "title": "Người đỡ đạn",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-            "tmdb_id": 196950,
+            "poster": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+            "tmdb_id": 223386,
             "type": "tv",
             "rank": 7
-        },
-        {
-            "title": "Cuộc Chiến Trong Chúng Ta",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-            "tmdb_id": 289424,
-            "type": "tv",
-            "rank": 8
         },
         {
             "title": "BloodHounds, Inc",
@@ -171,14 +162,23 @@
             "backdrop": null,
             "tmdb_id": 312502,
             "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "Xưởng Phép Thuật",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+            "tmdb_id": 196950,
+            "type": "tv",
             "rank": 9
         },
         {
-            "title": "Kathy Griffin: Straight to Hell",
-            "year": "N/A",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 46428,
+            "title": "Cuộc Chiến Trong Chúng Ta",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+            "tmdb_id": 289424,
             "type": "tv",
             "rank": 10
         }
