@@ -13,19 +13,10 @@
             "title": "Săn Mạng",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
             "tmdb_id": 1318447,
             "type": "movie",
             "rank": 2
-        },
-        {
-            "title": "Trận địa tử thần",
-            "year": "2009",
-            "poster": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
-            "tmdb_id": 22164,
-            "type": "movie",
-            "rank": 3
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -33,6 +24,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
+            "type": "movie",
+            "rank": 3
+        },
+        {
+            "title": "Trận địa tử thần",
+            "year": "2009",
+            "poster": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
+            "tmdb_id": 22164,
             "type": "movie",
             "rank": 4
         },
@@ -55,13 +55,22 @@
             "rank": 6
         },
         {
+            "title": "Warcraft: Đại Chiến Hai Thế Giới",
+            "year": "2016",
+            "poster": "https://image.tmdb.org/t/p/w500/x1QB779nLEpv3c7N4BRBSdftbMZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
+            "tmdb_id": 68735,
+            "type": "movie",
+            "rank": 7
+        },
+        {
             "title": "Siêu Thú Cuồng Nộ",
             "year": "2018",
             "poster": "https://image.tmdb.org/t/p/w500/ujQ1YVhqXQ6espmeX3KuJ6kKScd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
             "tmdb_id": 427641,
             "type": "movie",
-            "rank": 7
+            "rank": 8
         },
         {
             "title": "Tôi Là Huyền Thoại",
@@ -70,23 +79,14 @@
             "backdrop": "https://image.tmdb.org/t/p/original/aTLq0TMKdsmIy1ZyFM1LfPs326d.jpg",
             "tmdb_id": 6479,
             "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Sát Thủ Yêu Dấu",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/b1VNnA0ewb6F0hccCpPpXD8c8oT.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
-            "tmdb_id": 1630423,
-            "type": "movie",
             "rank": 9
         },
         {
-            "title": "Warcraft: Đại Chiến Hai Thế Giới",
-            "year": "2016",
-            "poster": "https://image.tmdb.org/t/p/w500/x1QB779nLEpv3c7N4BRBSdftbMZ.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
-            "tmdb_id": 68735,
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
             "type": "movie",
             "rank": 10
         }
@@ -147,11 +147,11 @@
             "rank": 6
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "Xưởng Phép Thuật",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+            "tmdb_id": 196950,
             "type": "tv",
             "rank": 7
         },
@@ -165,20 +165,20 @@
             "rank": 8
         },
         {
-            "title": "Cuộc Chiến Trong Chúng Ta",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-            "tmdb_id": 289424,
+            "title": "Wistoria: Trượng và Kiếm",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+            "tmdb_id": 245842,
             "type": "tv",
             "rank": 9
         },
         {
-            "title": "Entre padre e hijo",
+            "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pSb46kFE74L62zZVblkst83g9KA.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/7K4Ywif166vgdB8LK16Vq9CoyMW.jpg",
-            "tmdb_id": 321338,
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
             "rank": 10
         }
