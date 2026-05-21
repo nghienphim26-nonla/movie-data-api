@@ -28,31 +28,13 @@
             "rank": 3
         },
         {
-            "title": "Trận địa tử thần",
-            "year": "2009",
-            "poster": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
-            "tmdb_id": 22164,
-            "type": "movie",
-            "rank": 4
-        },
-        {
             "title": "Robot Hoang Dã",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/fj1ywGV5k8D0qjXyVeEgNyksChq.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
             "tmdb_id": 1184918,
             "type": "movie",
-            "rank": 5
-        },
-        {
-            "title": "Lính Bắn Tỉa Mỹ",
-            "year": "2014",
-            "poster": "https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
-            "tmdb_id": 190859,
-            "type": "movie",
-            "rank": 6
+            "rank": 4
         },
         {
             "title": "Warcraft: Đại Chiến Hai Thế Giới",
@@ -61,7 +43,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
             "tmdb_id": 68735,
             "type": "movie",
-            "rank": 7
+            "rank": 5
         },
         {
             "title": "Siêu Thú Cuồng Nộ",
@@ -69,6 +51,24 @@
             "poster": "https://image.tmdb.org/t/p/w500/ujQ1YVhqXQ6espmeX3KuJ6kKScd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
             "tmdb_id": 427641,
+            "type": "movie",
+            "rank": 6
+        },
+        {
+            "title": "Trận địa tử thần",
+            "year": "2009",
+            "poster": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
+            "tmdb_id": 22164,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
             "type": "movie",
             "rank": 8
         },
@@ -82,11 +82,11 @@
             "rank": 9
         },
         {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
+            "title": "Lính Bắn Tỉa Mỹ",
+            "year": "2014",
+            "poster": "https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+            "tmdb_id": 190859,
             "type": "movie",
             "rank": 10
         }
@@ -120,20 +120,20 @@
             "rank": 3
         },
         {
-            "title": "Điều ước đoạt mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-            "tmdb_id": 285838,
-            "type": "tv",
-            "rank": 4
-        },
-        {
             "title": "Hôm Nay Lại Bán Hết",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
+            "type": "tv",
+            "rank": 4
+        },
+        {
+            "title": "Điều ước đoạt mạng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+            "tmdb_id": 285838,
             "type": "tv",
             "rank": 5
         },
@@ -147,29 +147,29 @@
             "rank": 6
         },
         {
-            "title": "Xưởng Phép Thuật",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-            "tmdb_id": 196950,
-            "type": "tv",
-            "rank": 7
-        },
-        {
             "title": "Devil May Cry",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
             "tmdb_id": 235930,
             "type": "tv",
+            "rank": 7
+        },
+        {
+            "title": "Xưởng Phép Thuật",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+            "tmdb_id": 196950,
+            "type": "tv",
             "rank": 8
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "BloodHounds, Inc",
+            "year": "1999",
+            "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
+            "backdrop": null,
+            "tmdb_id": 312502,
             "type": "tv",
             "rank": 9
         },
