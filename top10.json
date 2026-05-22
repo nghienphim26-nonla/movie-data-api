@@ -28,22 +28,31 @@
             "rank": 3
         },
         {
-            "title": "Robot Hoang Dã",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/fj1ywGV5k8D0qjXyVeEgNyksChq.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
-            "tmdb_id": 1184918,
-            "type": "movie",
-            "rank": 4
-        },
-        {
             "title": "Warcraft: Đại Chiến Hai Thế Giới",
             "year": "2016",
             "poster": "https://image.tmdb.org/t/p/w500/x1QB779nLEpv3c7N4BRBSdftbMZ.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
             "tmdb_id": 68735,
             "type": "movie",
+            "rank": 4
+        },
+        {
+            "title": "Robot Hoang Dã",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/fj1ywGV5k8D0qjXyVeEgNyksChq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+            "tmdb_id": 1184918,
+            "type": "movie",
             "rank": 5
+        },
+        {
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
+            "type": "movie",
+            "rank": 6
         },
         {
             "title": "Siêu Thú Cuồng Nộ",
@@ -52,23 +61,14 @@
             "backdrop": "https://image.tmdb.org/t/p/original/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
             "tmdb_id": 427641,
             "type": "movie",
-            "rank": 6
-        },
-        {
-            "title": "Trận địa tử thần",
-            "year": "2009",
-            "poster": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
-            "tmdb_id": 22164,
-            "type": "movie",
             "rank": 7
         },
         {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
+            "title": "Omukade: Con Rết Người",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/i5c2Tvhn2mZWT43zdwHEliau58j.jpg",
+            "tmdb_id": 1254594,
             "type": "movie",
             "rank": 8
         },
@@ -111,20 +111,20 @@
             "rank": 2
         },
         {
-            "title": "Berlin và bức họa Người đàn bà và con chồn",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-            "tmdb_id": 308014,
-            "type": "tv",
-            "rank": 3
-        },
-        {
             "title": "Hôm Nay Lại Bán Hết",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
+            "type": "tv",
+            "rank": 3
+        },
+        {
+            "title": "Berlin và bức họa Người đàn bà và con chồn",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+            "tmdb_id": 308014,
             "type": "tv",
             "rank": 4
         },
@@ -147,11 +147,11 @@
             "rank": 6
         },
         {
-            "title": "Devil May Cry",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
-            "tmdb_id": 235930,
+            "title": "Tiếng yêu này, anh dịch được không?",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
             "rank": 7
         },
@@ -174,11 +174,11 @@
             "rank": 9
         },
         {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-            "tmdb_id": 229891,
+            "title": "Thần đèn ơi, ước đi",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+            "tmdb_id": 228689,
             "type": "tv",
             "rank": 10
         }
