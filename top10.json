@@ -28,20 +28,20 @@
             "rank": 3
         },
         {
-            "title": "Omukade: Con Rết Người",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/i5c2Tvhn2mZWT43zdwHEliau58j.jpg",
-            "tmdb_id": 1254594,
-            "type": "movie",
-            "rank": 4
-        },
-        {
             "title": "Săn Mạng",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
             "tmdb_id": 1318447,
+            "type": "movie",
+            "rank": 4
+        },
+        {
+            "title": "Omukade: Con Rết Người",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/i5c2Tvhn2mZWT43zdwHEliau58j.jpg",
+            "tmdb_id": 1254594,
             "type": "movie",
             "rank": 5
         },
@@ -73,20 +73,20 @@
             "rank": 8
         },
         {
-            "title": "Warcraft: Đại Chiến Hai Thế Giới",
-            "year": "2016",
-            "poster": "https://image.tmdb.org/t/p/w500/x1QB779nLEpv3c7N4BRBSdftbMZ.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
-            "tmdb_id": 68735,
-            "type": "movie",
-            "rank": 9
-        },
-        {
             "title": "Mai",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
+            "type": "movie",
+            "rank": 9
+        },
+        {
+            "title": "Warcraft: Đại Chiến Hai Thế Giới",
+            "year": "2016",
+            "poster": "https://image.tmdb.org/t/p/w500/x1QB779nLEpv3c7N4BRBSdftbMZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
+            "tmdb_id": 68735,
             "type": "movie",
             "rank": 10
         }
@@ -111,20 +111,20 @@
             "rank": 2
         },
         {
-            "title": "Berlin và bức họa Người đàn bà và con chồn",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-            "tmdb_id": 308014,
-            "type": "tv",
-            "rank": 3
-        },
-        {
             "title": "Hôm Nay Lại Bán Hết",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
+            "type": "tv",
+            "rank": 3
+        },
+        {
+            "title": "Berlin và bức họa Người đàn bà và con chồn",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+            "tmdb_id": 308014,
             "type": "tv",
             "rank": 4
         },
@@ -138,20 +138,20 @@
             "rank": 5
         },
         {
-            "title": "Cuộc Chiến Trong Chúng Ta",
+            "title": "Xưởng Phép Thuật",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-            "tmdb_id": 289424,
+            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+            "tmdb_id": 196950,
             "type": "tv",
             "rank": 6
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "Trung Tâm Chăm Sóc Chấn Thương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+            "tmdb_id": 217553,
             "type": "tv",
             "rank": 7
         },
@@ -165,20 +165,20 @@
             "rank": 8
         },
         {
-            "title": "Trung Tâm Chăm Sóc Chấn Thương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-            "tmdb_id": 217553,
+            "title": "Cuộc Chiến Trong Chúng Ta",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+            "tmdb_id": 289424,
             "type": "tv",
             "rank": 9
         },
         {
-            "title": "Tử thù",
+            "title": "Phiến quân tóc xám",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
-            "tmdb_id": 285807,
+            "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+            "tmdb_id": 224941,
             "type": "tv",
             "rank": 10
         }
