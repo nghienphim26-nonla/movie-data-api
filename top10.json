@@ -28,20 +28,20 @@
             "rank": 3
         },
         {
+            "title": "Câu Chuyện Sau Màn Sương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/5nXkeQHSHPccTMllRZMURs790fR.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
+            "tmdb_id": 1174334,
+            "type": "movie",
+            "rank": 4
+        },
+        {
             "title": "Săn Mạng",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
             "tmdb_id": 1318447,
-            "type": "movie",
-            "rank": 4
-        },
-        {
-            "title": "Omukade: Con Rết Người",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/i5c2Tvhn2mZWT43zdwHEliau58j.jpg",
-            "tmdb_id": 1254594,
             "type": "movie",
             "rank": 5
         },
@@ -73,20 +73,20 @@
             "rank": 8
         },
         {
+            "title": "Omukade: Con Rết Người",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/i5c2Tvhn2mZWT43zdwHEliau58j.jpg",
+            "tmdb_id": 1254594,
+            "type": "movie",
+            "rank": 9
+        },
+        {
             "title": "Mai",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Warcraft: Đại Chiến Hai Thế Giới",
-            "year": "2016",
-            "poster": "https://image.tmdb.org/t/p/w500/x1QB779nLEpv3c7N4BRBSdftbMZ.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
-            "tmdb_id": 68735,
             "type": "movie",
             "rank": 10
         }
@@ -147,31 +147,22 @@
             "rank": 6
         },
         {
-            "title": "Trung Tâm Chăm Sóc Chấn Thương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-            "tmdb_id": 217553,
-            "type": "tv",
-            "rank": 7
-        },
-        {
             "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
             "tmdb_id": 229891,
             "type": "tv",
-            "rank": 8
+            "rank": 7
         },
         {
-            "title": "Cuộc Chiến Trong Chúng Ta",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-            "tmdb_id": 289424,
+            "title": "Trung Tâm Chăm Sóc Chấn Thương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+            "tmdb_id": 217553,
             "type": "tv",
-            "rank": 9
+            "rank": 8
         },
         {
             "title": "Phiến quân tóc xám",
@@ -179,6 +170,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
             "tmdb_id": 224941,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "BloodHounds, Inc",
+            "year": "1999",
+            "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
+            "backdrop": null,
+            "tmdb_id": 312502,
             "type": "tv",
             "rank": 10
         }
