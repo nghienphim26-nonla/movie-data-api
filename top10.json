@@ -19,58 +19,22 @@
             "rank": 2
         },
         {
+            "title": "Mortal Kombat: Cuộc Chiến Sinh Tử",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/5iHZ6KUSnLEnStXJ6BfFA5Uk2PT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+            "tmdb_id": 460465,
+            "type": "movie",
+            "rank": 3
+        },
+        {
             "title": "Xin nhường phái đẹp",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
             "tmdb_id": 1368881,
             "type": "movie",
-            "rank": 3
-        },
-        {
-            "title": "Cuộc phiêu lưu biến hóa",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-            "tmdb_id": 1007757,
-            "type": "movie",
             "rank": 4
-        },
-        {
-            "title": "Câu Chuyện Sau Màn Sương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/5nXkeQHSHPccTMllRZMURs790fR.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
-            "tmdb_id": 1174334,
-            "type": "movie",
-            "rank": 5
-        },
-        {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
-            "type": "movie",
-            "rank": 6
-        },
-        {
-            "title": "Săn Mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
-            "tmdb_id": 1318447,
-            "type": "movie",
-            "rank": 7
-        },
-        {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
-            "type": "movie",
-            "rank": 8
         },
         {
             "title": "Trả Giá",
@@ -79,14 +43,50 @@
             "backdrop": "https://image.tmdb.org/t/p/original/42peqRwvHPIvl4gZWBa2X9xZ67T.jpg",
             "tmdb_id": 4413,
             "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Cuộc phiêu lưu biến hóa",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+            "tmdb_id": 1007757,
+            "type": "movie",
+            "rank": 6
+        },
+        {
+            "title": "Câu Chuyện Sau Màn Sương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/5nXkeQHSHPccTMllRZMURs790fR.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
+            "tmdb_id": 1174334,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Tiểu Đội Cò Bay",
+            "year": "2016",
+            "poster": "https://image.tmdb.org/t/p/w500/UeS7i1w5C3As8obe1w8UNcSFT9.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg",
+            "tmdb_id": 332210,
+            "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
+            "type": "movie",
             "rank": 9
         },
         {
-            "title": "Bộ Tứ Báo Thủ",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
-            "tmdb_id": 1391703,
+            "title": "Săn Mạng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
+            "tmdb_id": 1318447,
             "type": "movie",
             "rank": 10
         }
@@ -165,20 +165,20 @@
             "rank": 8
         },
         {
-            "title": "Xưởng Phép Thuật",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-            "tmdb_id": 196950,
-            "type": "tv",
-            "rank": 9
-        },
-        {
             "title": "Phiến quân tóc xám",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
             "tmdb_id": 224941,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "転生したらスライムだった件 転スラ日記",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
+            "tmdb_id": 118541,
             "type": "tv",
             "rank": 10
         }
