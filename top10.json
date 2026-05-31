@@ -28,22 +28,13 @@
             "rank": 3
         },
         {
-            "title": "Xin nhường phái đẹp",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
-            "tmdb_id": 1368881,
+            "title": "Transformers Một",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/dawYxxlMAzEOy3eYuAlKlPk3lcW.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+            "tmdb_id": 698687,
             "type": "movie",
             "rank": 4
-        },
-        {
-            "title": "Trả Giá",
-            "year": "2007",
-            "poster": "https://image.tmdb.org/t/p/w500/rhBmOW1TetBgXzIARDXlNvWyyNu.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/42peqRwvHPIvl4gZWBa2X9xZ67T.jpg",
-            "tmdb_id": 4413,
-            "type": "movie",
-            "rank": 5
         },
         {
             "title": "Cuộc phiêu lưu biến hóa",
@@ -52,7 +43,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "tmdb_id": 1007757,
             "type": "movie",
-            "rank": 6
+            "rank": 5
         },
         {
             "title": "Câu Chuyện Sau Màn Sương",
@@ -61,14 +52,23 @@
             "backdrop": "https://image.tmdb.org/t/p/original/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
             "tmdb_id": 1174334,
             "type": "movie",
+            "rank": 6
+        },
+        {
+            "title": "Trả Giá",
+            "year": "2007",
+            "poster": "https://image.tmdb.org/t/p/w500/rhBmOW1TetBgXzIARDXlNvWyyNu.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/42peqRwvHPIvl4gZWBa2X9xZ67T.jpg",
+            "tmdb_id": 4413,
+            "type": "movie",
             "rank": 7
         },
         {
-            "title": "Tiểu Đội Cò Bay",
-            "year": "2016",
-            "poster": "https://image.tmdb.org/t/p/w500/UeS7i1w5C3As8obe1w8UNcSFT9.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg",
-            "tmdb_id": 332210,
+            "title": "Xin nhường phái đẹp",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+            "tmdb_id": 1368881,
             "type": "movie",
             "rank": 8
         },
@@ -129,20 +129,20 @@
             "rank": 4
         },
         {
+            "title": "転生したらスライムだった件 転スラ日記",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
+            "tmdb_id": 118541,
+            "type": "tv",
+            "rank": 5
+        },
+        {
             "title": "Berlin và bức họa Người đàn bà và con chồn",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
             "tmdb_id": 308014,
-            "type": "tv",
-            "rank": 5
-        },
-        {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-            "tmdb_id": 229891,
             "type": "tv",
             "rank": 6
         },
@@ -156,29 +156,29 @@
             "rank": 7
         },
         {
+            "title": "Tiếng yêu này, anh dịch được không?",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+            "tmdb_id": 229891,
+            "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "ONE PIECE",
+            "year": "2023",
+            "poster": "https://image.tmdb.org/t/p/w500/kdAOhC8IIS5jqzruRk7To3AEsHH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+            "tmdb_id": 111110,
+            "type": "tv",
+            "rank": 9
+        },
+        {
             "title": "BloodHounds, Inc",
             "year": "1999",
             "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
             "backdrop": null,
             "tmdb_id": 312502,
-            "type": "tv",
-            "rank": 8
-        },
-        {
-            "title": "Phiến quân tóc xám",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
-            "tmdb_id": 224941,
-            "type": "tv",
-            "rank": 9
-        },
-        {
-            "title": "転生したらスライムだった件 転スラ日記",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
-            "tmdb_id": 118541,
             "type": "tv",
             "rank": 10
         }
