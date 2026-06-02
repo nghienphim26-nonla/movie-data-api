@@ -1,13 +1,22 @@
 {
     "movies": [
         {
+            "title": "Quái Vật Dưới Gầm Giường",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+            "tmdb_id": 1043197,
+            "type": "movie",
+            "rank": 1
+        },
+        {
             "title": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/wZRJ3Q2XRJHov1SS80sTXbfjkz9.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
             "tmdb_id": 1297842,
             "type": "movie",
-            "rank": 1
+            "rank": 2
         },
         {
             "title": "Mortal Kombat: Cuộc Chiến Sinh Tử",
@@ -15,15 +24,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/5iHZ6KUSnLEnStXJ6BfFA5Uk2PT.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
             "tmdb_id": 460465,
-            "type": "movie",
-            "rank": 2
-        },
-        {
-            "title": "Huyền Thoại Tarzan",
-            "year": "2016",
-            "poster": "https://image.tmdb.org/t/p/w500/5iHKTktBSiJIM6kc1Y8HkTU0cKM.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
-            "tmdb_id": 258489,
             "type": "movie",
             "rank": 3
         },
@@ -37,20 +37,20 @@
             "rank": 4
         },
         {
-            "title": "Câu Chuyện Sau Màn Sương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/5nXkeQHSHPccTMllRZMURs790fR.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
-            "tmdb_id": 1174334,
-            "type": "movie",
-            "rank": 5
-        },
-        {
             "title": "Cuộc phiêu lưu biến hóa",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "tmdb_id": 1007757,
+            "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Huyền Thoại Tarzan",
+            "year": "2016",
+            "poster": "https://image.tmdb.org/t/p/w500/5iHKTktBSiJIM6kc1Y8HkTU0cKM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+            "tmdb_id": 258489,
             "type": "movie",
             "rank": 6
         },
@@ -64,29 +64,29 @@
             "rank": 7
         },
         {
+            "title": "Câu Chuyện Sau Màn Sương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/5nXkeQHSHPccTMllRZMURs790fR.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
+            "tmdb_id": 1174334,
+            "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
+            "type": "movie",
+            "rank": 9
+        },
+        {
             "title": "Trả Giá",
             "year": "2007",
             "poster": "https://image.tmdb.org/t/p/w500/rhBmOW1TetBgXzIARDXlNvWyyNu.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/42peqRwvHPIvl4gZWBa2X9xZ67T.jpg",
             "tmdb_id": 4413,
-            "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Săn Mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/jMSlZZScFPA6YqatxzrixoMlTDk.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
-            "tmdb_id": 1318447,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Xin nhường phái đẹp",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
-            "tmdb_id": 1368881,
             "type": "movie",
             "rank": 10
         }
@@ -138,31 +138,13 @@
             "rank": 5
         },
         {
-            "title": "Song Mệnh Cõi Hoàng Tuyền",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/so7QB1Sdw5PBQplRXnGp8W3ofv7.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
-            "tmdb_id": 260463,
-            "type": "tv",
-            "rank": 6
-        },
-        {
             "title": "Wistoria: Trượng và Kiếm",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
             "tmdb_id": 245842,
             "type": "tv",
-            "rank": 7
-        },
-        {
-            "title": "転生したらスライムだった件 転スラ日記",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
-            "tmdb_id": 118541,
-            "type": "tv",
-            "rank": 8
+            "rank": 6
         },
         {
             "title": "Tiếng yêu này, anh dịch được không?",
@@ -171,7 +153,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
             "tmdb_id": 229891,
             "type": "tv",
-            "rank": 9
+            "rank": 7
+        },
+        {
+            "title": "BloodHounds, Inc",
+            "year": "1999",
+            "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
+            "backdrop": null,
+            "tmdb_id": 312502,
+            "type": "tv",
+            "rank": 8
         },
         {
             "title": "ONE PIECE",
@@ -179,6 +170,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/kdAOhC8IIS5jqzruRk7To3AEsHH.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
             "tmdb_id": 111110,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Trung Tâm Chăm Sóc Chấn Thương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+            "tmdb_id": 217553,
             "type": "tv",
             "rank": 10
         }
