@@ -19,22 +19,13 @@
             "rank": 2
         },
         {
-            "title": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/wZRJ3Q2XRJHov1SS80sTXbfjkz9.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-            "tmdb_id": 1297842,
-            "type": "movie",
-            "rank": 3
-        },
-        {
             "title": "Bộ Tứ Báo Thủ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
             "tmdb_id": 1391703,
             "type": "movie",
-            "rank": 4
+            "rank": 3
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -43,14 +34,23 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
+            "rank": 4
+        },
+        {
+            "title": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/wZRJ3Q2XRJHov1SS80sTXbfjkz9.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+            "tmdb_id": 1297842,
+            "type": "movie",
             "rank": 5
         },
         {
-            "title": "Mortal Kombat: Cuộc Chiến Sinh Tử",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/5iHZ6KUSnLEnStXJ6BfFA5Uk2PT.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
-            "tmdb_id": 460465,
+            "title": "Yêu Nơi Công Sở",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
+            "tmdb_id": 1358005,
             "type": "movie",
             "rank": 6
         },
@@ -64,11 +64,11 @@
             "rank": 7
         },
         {
-            "title": "Transformers Một",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/dawYxxlMAzEOy3eYuAlKlPk3lcW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
-            "tmdb_id": 698687,
+            "title": "Mortal Kombat: Cuộc Chiến Sinh Tử",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/5iHZ6KUSnLEnStXJ6BfFA5Uk2PT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+            "tmdb_id": 460465,
             "type": "movie",
             "rank": 8
         },
@@ -111,11 +111,11 @@
             "rank": 2
         },
         {
-            "title": "Michael Jackson: Lời Tuyên Án",
+            "title": "Bài Học Đáng Đời",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-            "tmdb_id": 323111,
+            "poster": "https://image.tmdb.org/t/p/w500/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/wsfF3ASiJODTZ9hSlHkEYqJH6oN.jpg",
+            "tmdb_id": 276161,
             "type": "tv",
             "rank": 3
         },
@@ -129,40 +129,13 @@
             "rank": 4
         },
         {
-            "title": "Hôm Nay Lại Bán Hết",
+            "title": "Michael Jackson: Lời Tuyên Án",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-            "tmdb_id": 287011,
+            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+            "tmdb_id": 323111,
             "type": "tv",
             "rank": 5
-        },
-        {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-            "tmdb_id": 229891,
-            "type": "tv",
-            "rank": 6
-        },
-        {
-            "title": "Điều ước đoạt mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-            "tmdb_id": 285838,
-            "type": "tv",
-            "rank": 7
-        },
-        {
-            "title": "Berlin và bức họa Người đàn bà và con chồn",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-            "tmdb_id": 308014,
-            "type": "tv",
-            "rank": 8
         },
         {
             "title": "Nhân Chứng Duy Nhất",
@@ -171,14 +144,41 @@
             "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
             "tmdb_id": 280511,
             "type": "tv",
+            "rank": 6
+        },
+        {
+            "title": "Tiếng yêu này, anh dịch được không?",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+            "tmdb_id": 229891,
+            "type": "tv",
+            "rank": 7
+        },
+        {
+            "title": "Hôm Nay Lại Bán Hết",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+            "tmdb_id": 287011,
+            "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "Điều ước đoạt mạng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+            "tmdb_id": 285838,
+            "type": "tv",
             "rank": 9
         },
         {
-            "title": "BloodHounds, Inc",
-            "year": "1999",
-            "poster": "https://image.tmdb.org/t/p/w500/5915yg470INtn4JDs4Ho7YvrDC.jpg",
-            "backdrop": null,
-            "tmdb_id": 312502,
+            "title": "Berlin và bức họa Người đàn bà và con chồn",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+            "tmdb_id": 308014,
             "type": "tv",
             "rank": 10
         }
