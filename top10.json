@@ -55,31 +55,22 @@
             "rank": 6
         },
         {
-            "title": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/wZRJ3Q2XRJHov1SS80sTXbfjkz9.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-            "tmdb_id": 1297842,
-            "type": "movie",
-            "rank": 7
-        },
-        {
             "title": "Kẻ Trộm Mặt Trăng 4",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
             "tmdb_id": 519182,
             "type": "movie",
-            "rank": 8
+            "rank": 7
         },
         {
-            "title": "Mortal Kombat: Cuộc Chiến Sinh Tử",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/5iHZ6KUSnLEnStXJ6BfFA5Uk2PT.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
-            "tmdb_id": 460465,
+            "title": "Marked Woman: Ripped from the Headlines",
+            "year": "2006",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 964350,
             "type": "movie",
-            "rank": 9
+            "rank": 8
         },
         {
             "title": "Mai",
@@ -87,6 +78,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
+            "type": "movie",
+            "rank": 9
+        },
+        {
+            "title": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/wZRJ3Q2XRJHov1SS80sTXbfjkz9.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+            "tmdb_id": 1297842,
             "type": "movie",
             "rank": 10
         }
@@ -96,7 +96,7 @@
             "title": "Bài Học Đáng Đời",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/mbO0o1cRqoPehYFfHSbxHgLOc1I.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/wsfF3ASiJODTZ9hSlHkEYqJH6oN.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
             "tmdb_id": 276161,
             "type": "tv",
             "rank": 1
@@ -138,11 +138,11 @@
             "rank": 5
         },
         {
-            "title": "転生したらスライムだった件 転スラ日記",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
-            "tmdb_id": 118541,
+            "title": "Tiếng yêu này, anh dịch được không?",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
             "rank": 6
         },
@@ -156,13 +156,22 @@
             "rank": 7
         },
         {
-            "title": "Tiếng yêu này, anh dịch được không?",
+            "title": "Điều ước đoạt mạng",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
-            "tmdb_id": 229891,
+            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+            "tmdb_id": 285838,
             "type": "tv",
             "rank": 8
+        },
+        {
+            "title": "Song Mệnh Cõi Hoàng Tuyền",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/so7QB1Sdw5PBQplRXnGp8W3ofv7.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+            "tmdb_id": 260463,
+            "type": "tv",
+            "rank": 9
         },
         {
             "title": "Hôm Nay Lại Bán Hết",
@@ -170,15 +179,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
-            "type": "tv",
-            "rank": 9
-        },
-        {
-            "title": "Điều ước đoạt mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-            "tmdb_id": 285838,
             "type": "tv",
             "rank": 10
         }
