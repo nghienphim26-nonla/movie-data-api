@@ -10,31 +10,22 @@
             "rank": 1
         },
         {
-            "title": "Không Nói Điều Dữ",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
-            "tmdb_id": 1114513,
-            "type": "movie",
-            "rank": 2
-        },
-        {
             "title": "Yêu Nơi Công Sở",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
             "tmdb_id": 1358005,
             "type": "movie",
-            "rank": 3
+            "rank": 2
         },
         {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
+            "title": "Không Nói Điều Dữ",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+            "tmdb_id": 1114513,
             "type": "movie",
-            "rank": 4
+            "rank": 3
         },
         {
             "title": "Bộ Tứ Báo Thủ",
@@ -43,25 +34,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
             "tmdb_id": 1391703,
             "type": "movie",
+            "rank": 4
+        },
+        {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
+            "type": "movie",
             "rank": 5
-        },
-        {
-            "title": "Cuộc phiêu lưu biến hóa",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-            "tmdb_id": 1007757,
-            "type": "movie",
-            "rank": 6
-        },
-        {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
-            "type": "movie",
-            "rank": 7
         },
         {
             "title": "Marked Woman: Ripped from the Headlines",
@@ -70,7 +52,16 @@
             "backdrop": null,
             "tmdb_id": 964350,
             "type": "movie",
-            "rank": 8
+            "rank": 6
+        },
+        {
+            "title": "Cuộc phiêu lưu biến hóa",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+            "tmdb_id": 1007757,
+            "type": "movie",
+            "rank": 7
         },
         {
             "title": "Mai",
@@ -78,6 +69,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
+            "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
             "type": "movie",
             "rank": 9
         },
@@ -129,22 +129,13 @@
             "rank": 4
         },
         {
-            "title": "Michael Jackson: Lời Tuyên Án",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-            "tmdb_id": 323111,
-            "type": "tv",
-            "rank": 5
-        },
-        {
             "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
             "tmdb_id": 229891,
             "type": "tv",
-            "rank": 6
+            "rank": 5
         },
         {
             "title": "Nhân Chứng Duy Nhất",
@@ -152,6 +143,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
             "tmdb_id": 280511,
+            "type": "tv",
+            "rank": 6
+        },
+        {
+            "title": "Michael Jackson: Lời Tuyên Án",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+            "tmdb_id": 323111,
             "type": "tv",
             "rank": 7
         },
@@ -165,11 +165,11 @@
             "rank": 8
         },
         {
-            "title": "Song Mệnh Cõi Hoàng Tuyền",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/so7QB1Sdw5PBQplRXnGp8W3ofv7.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
-            "tmdb_id": 260463,
+            "title": "Wistoria: Trượng và Kiếm",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+            "tmdb_id": 245842,
             "type": "tv",
             "rank": 9
         },
