@@ -13,7 +13,7 @@
             "title": "Yêu Nơi Công Sở",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/ixjsQuOhdx6mKlyeMMzd80WjT6K.jpg",
             "tmdb_id": 1358005,
             "type": "movie",
             "rank": 2
@@ -55,13 +55,22 @@
             "rank": 6
         },
         {
+            "title": "Phi Vụ Italia",
+            "year": "2003",
+            "poster": "https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
+            "tmdb_id": 9654,
+            "type": "movie",
+            "rank": 7
+        },
+        {
             "title": "Cuộc phiêu lưu biến hóa",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "tmdb_id": 1007757,
             "type": "movie",
-            "rank": 7
+            "rank": 8
         },
         {
             "title": "Mai",
@@ -70,7 +79,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
             "type": "movie",
-            "rank": 8
+            "rank": 9
         },
         {
             "title": "Kẻ Trộm Mặt Trăng 4",
@@ -78,15 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
             "tmdb_id": 519182,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/wZRJ3Q2XRJHov1SS80sTXbfjkz9.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-            "tmdb_id": 1297842,
             "type": "movie",
             "rank": 10
         }
@@ -147,29 +147,29 @@
             "rank": 6
         },
         {
-            "title": "Michael Jackson: Lời Tuyên Án",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-            "tmdb_id": 323111,
-            "type": "tv",
-            "rank": 7
-        },
-        {
             "title": "Điều ước đoạt mạng",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
             "tmdb_id": 285838,
             "type": "tv",
+            "rank": 7
+        },
+        {
+            "title": "Xưởng Phép Thuật",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+            "tmdb_id": 196950,
+            "type": "tv",
             "rank": 8
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "Michael Jackson: Lời Tuyên Án",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+            "tmdb_id": 323111,
             "type": "tv",
             "rank": 9
         },
