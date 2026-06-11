@@ -13,17 +13,17 @@
             "title": "Yêu Nơi Công Sở",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/ixjsQuOhdx6mKlyeMMzd80WjT6K.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
             "tmdb_id": 1358005,
             "type": "movie",
             "rank": 2
         },
         {
-            "title": "Không Nói Điều Dữ",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
-            "tmdb_id": 1114513,
+            "title": "Marked Woman: Ripped from the Headlines",
+            "year": "2006",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 964350,
             "type": "movie",
             "rank": 3
         },
@@ -37,20 +37,20 @@
             "rank": 4
         },
         {
+            "title": "Không Nói Điều Dữ",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+            "tmdb_id": 1114513,
+            "type": "movie",
+            "rank": 5
+        },
+        {
             "title": "Truy Tìm Long Diên Hương",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
-            "type": "movie",
-            "rank": 5
-        },
-        {
-            "title": "Marked Woman: Ripped from the Headlines",
-            "year": "2006",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 964350,
             "type": "movie",
             "rank": 6
         },
@@ -64,29 +64,29 @@
             "rank": 7
         },
         {
-            "title": "Cuộc phiêu lưu biến hóa",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-            "tmdb_id": 1007757,
-            "type": "movie",
-            "rank": 8
-        },
-        {
             "title": "Mai",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
             "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Màu Tà Ác: Đen",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
+            "tmdb_id": 1560681,
+            "type": "movie",
             "rank": 9
         },
         {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
+            "title": "Cuộc phiêu lưu biến hóa",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+            "tmdb_id": 1007757,
             "type": "movie",
             "rank": 10
         }
@@ -132,19 +132,10 @@
             "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/60Hm8JC1Ps8DsrstAt4PTQuBdIB.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
             "tmdb_id": 229891,
             "type": "tv",
             "rank": 5
-        },
-        {
-            "title": "Nhân Chứng Duy Nhất",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
-            "tmdb_id": 280511,
-            "type": "tv",
-            "rank": 6
         },
         {
             "title": "Điều ước đoạt mạng",
@@ -153,25 +144,25 @@
             "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
             "tmdb_id": 285838,
             "type": "tv",
+            "rank": 6
+        },
+        {
+            "title": "Nhân Chứng Duy Nhất",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+            "tmdb_id": 280511,
+            "type": "tv",
             "rank": 7
         },
         {
-            "title": "Xưởng Phép Thuật",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-            "tmdb_id": 196950,
+            "title": "Trung Tâm Chăm Sóc Chấn Thương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+            "tmdb_id": 217553,
             "type": "tv",
             "rank": 8
-        },
-        {
-            "title": "Michael Jackson: Lời Tuyên Án",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-            "tmdb_id": 323111,
-            "type": "tv",
-            "rank": 9
         },
         {
             "title": "Hôm Nay Lại Bán Hết",
@@ -179,6 +170,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Michael Jackson: Lời Tuyên Án",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+            "tmdb_id": 323111,
             "type": "tv",
             "rank": 10
         }
