@@ -19,29 +19,29 @@
             "rank": 2
         },
         {
-            "title": "Marked Woman: Ripped from the Headlines",
-            "year": "2006",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 964350,
-            "type": "movie",
-            "rank": 3
-        },
-        {
             "title": "Bộ Tứ Báo Thủ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
             "tmdb_id": 1391703,
             "type": "movie",
+            "rank": 3
+        },
+        {
+            "title": "Marked Woman: Ripped from the Headlines",
+            "year": "2006",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 964350,
+            "type": "movie",
             "rank": 4
         },
         {
-            "title": "Không Nói Điều Dữ",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
-            "tmdb_id": 1114513,
+            "title": "Màu Tà Ác: Đen",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
+            "tmdb_id": 1560681,
             "type": "movie",
             "rank": 5
         },
@@ -55,13 +55,22 @@
             "rank": 6
         },
         {
+            "title": "Không Nói Điều Dữ",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+            "tmdb_id": 1114513,
+            "type": "movie",
+            "rank": 7
+        },
+        {
             "title": "Phi Vụ Italia",
             "year": "2003",
             "poster": "https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
             "tmdb_id": 9654,
             "type": "movie",
-            "rank": 7
+            "rank": 8
         },
         {
             "title": "Mai",
@@ -69,15 +78,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
-            "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Màu Tà Ác: Đen",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
-            "tmdb_id": 1560681,
             "type": "movie",
             "rank": 9
         },
@@ -129,31 +129,22 @@
             "rank": 4
         },
         {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-            "tmdb_id": 229891,
-            "type": "tv",
-            "rank": 5
-        },
-        {
             "title": "Điều ước đoạt mạng",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
             "tmdb_id": 285838,
             "type": "tv",
-            "rank": 6
+            "rank": 5
         },
         {
-            "title": "Nhân Chứng Duy Nhất",
+            "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
-            "tmdb_id": 280511,
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
-            "rank": 7
+            "rank": 6
         },
         {
             "title": "Trung Tâm Chăm Sóc Chấn Thương",
@@ -162,7 +153,25 @@
             "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
             "tmdb_id": 217553,
             "type": "tv",
+            "rank": 7
+        },
+        {
+            "title": "Nhân Chứng Duy Nhất",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+            "tmdb_id": 280511,
+            "type": "tv",
             "rank": 8
+        },
+        {
+            "title": "Học Cách Chiến Đấu",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
+            "tmdb_id": 312493,
+            "type": "tv",
+            "rank": 9
         },
         {
             "title": "Hôm Nay Lại Bán Hết",
@@ -170,15 +179,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
             "tmdb_id": 287011,
-            "type": "tv",
-            "rank": 9
-        },
-        {
-            "title": "Michael Jackson: Lời Tuyên Án",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/yAKljjiMkzx6BTIF3gf3QN2VUXK.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-            "tmdb_id": 323111,
             "type": "tv",
             "rank": 10
         }
