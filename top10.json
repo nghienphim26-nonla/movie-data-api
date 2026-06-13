@@ -13,7 +13,7 @@
             "title": "Yêu Nơi Công Sở",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/ixjsQuOhdx6mKlyeMMzd80WjT6K.jpg",
             "tmdb_id": 1358005,
             "type": "movie",
             "rank": 2
@@ -28,22 +28,13 @@
             "rank": 3
         },
         {
-            "title": "Marked Woman: Ripped from the Headlines",
-            "year": "2006",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 964350,
-            "type": "movie",
-            "rank": 4
-        },
-        {
             "title": "Màu Tà Ác: Đen",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
             "tmdb_id": 1560681,
             "type": "movie",
-            "rank": 5
+            "rank": 4
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -52,25 +43,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Marked Woman: Ripped from the Headlines",
+            "year": "2006",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 964350,
+            "type": "movie",
             "rank": 6
-        },
-        {
-            "title": "Không Nói Điều Dữ",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/4TcbY5elT4K9JsZLxRIEee1yvnC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
-            "tmdb_id": 1114513,
-            "type": "movie",
-            "rank": 7
-        },
-        {
-            "title": "Phi Vụ Italia",
-            "year": "2003",
-            "poster": "https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
-            "tmdb_id": 9654,
-            "type": "movie",
-            "rank": 8
         },
         {
             "title": "Mai",
@@ -79,7 +61,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
             "type": "movie",
-            "rank": 9
+            "rank": 7
         },
         {
             "title": "Cuộc phiêu lưu biến hóa",
@@ -88,12 +70,30 @@
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "tmdb_id": 1007757,
             "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Phi Vụ Italia",
+            "year": "2003",
+            "poster": "https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
+            "tmdb_id": 9654,
+            "type": "movie",
+            "rank": 9
+        },
+        {
+            "title": "Pacific Rim: Trỗi Dậy",
+            "year": "2018",
+            "poster": "https://image.tmdb.org/t/p/w500/aimCr95WXiN9aNU3RYqTX9hXbo2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
+            "tmdb_id": 268896,
+            "type": "movie",
             "rank": 10
         }
     ],
     "tv_shows": [
         {
-            "title": "Bài Học Đáng Đời",
+            "title": "Bài học đáng đời",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/mbO0o1cRqoPehYFfHSbxHgLOc1I.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
@@ -120,13 +120,22 @@
             "rank": 3
         },
         {
+            "title": "Học Cách Chiến Đấu",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
+            "tmdb_id": 312493,
+            "type": "tv",
+            "rank": 4
+        },
+        {
             "title": "Biệt Đội Siêu Khờ",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
             "tmdb_id": 259837,
             "type": "tv",
-            "rank": 4
+            "rank": 5
         },
         {
             "title": "Điều ước đoạt mạng",
@@ -134,15 +143,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
             "tmdb_id": 285838,
-            "type": "tv",
-            "rank": 5
-        },
-        {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-            "tmdb_id": 229891,
             "type": "tv",
             "rank": 6
         },
@@ -156,29 +156,29 @@
             "rank": 7
         },
         {
-            "title": "Nhân Chứng Duy Nhất",
+            "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
-            "tmdb_id": 280511,
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
             "rank": 8
         },
         {
-            "title": "Học Cách Chiến Đấu",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
-            "tmdb_id": 312493,
+            "title": "Tòa Án Vị Thành Niên",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/sWhB5ufz3hrJQMtxxlQzqjlrv2l.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
+            "tmdb_id": 112833,
             "type": "tv",
             "rank": 9
         },
         {
-            "title": "Hôm Nay Lại Bán Hết",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/fOJjnGIsRyBjwwOfgFXUn5px5Aw.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-            "tmdb_id": 287011,
+            "title": "Anh Hùng Yếu Ớt",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/z7LdovIn3S9l9HjowP9BNJuy5Y1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+            "tmdb_id": 200709,
             "type": "tv",
             "rank": 10
         }
