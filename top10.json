@@ -13,19 +13,10 @@
             "title": "Yêu Nơi Công Sở",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/ixjsQuOhdx6mKlyeMMzd80WjT6K.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
             "tmdb_id": 1358005,
             "type": "movie",
             "rank": 2
-        },
-        {
-            "title": "Bộ Tứ Báo Thủ",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
-            "tmdb_id": 1391703,
-            "type": "movie",
-            "rank": 3
         },
         {
             "title": "Màu Tà Ác: Đen",
@@ -33,6 +24,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/kqGS7zqOjMK6LsV6XjKUz5yreYZ.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
             "tmdb_id": 1560681,
+            "type": "movie",
+            "rank": 3
+        },
+        {
+            "title": "Bộ Tứ Báo Thủ",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
+            "tmdb_id": 1391703,
             "type": "movie",
             "rank": 4
         },
@@ -46,22 +46,13 @@
             "rank": 5
         },
         {
-            "title": "Marked Woman: Ripped from the Headlines",
-            "year": "2006",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 964350,
-            "type": "movie",
-            "rank": 6
-        },
-        {
             "title": "Mai",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/2nF8xD200rcDawuCg5ObxxqA2fC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/g3yFCzkHAvB7oFvt9HJDxBxo1al.jpg",
             "tmdb_id": 1210973,
             "type": "movie",
-            "rank": 7
+            "rank": 6
         },
         {
             "title": "Cuộc phiêu lưu biến hóa",
@@ -70,16 +61,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "tmdb_id": 1007757,
             "type": "movie",
-            "rank": 8
+            "rank": 7
         },
         {
-            "title": "Phi Vụ Italia",
-            "year": "2003",
-            "poster": "https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
-            "tmdb_id": 9654,
+            "title": "Marked Woman: Ripped from the Headlines",
+            "year": "2006",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 964350,
             "type": "movie",
-            "rank": 9
+            "rank": 8
         },
         {
             "title": "Pacific Rim: Trỗi Dậy",
@@ -87,6 +78,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/aimCr95WXiN9aNU3RYqTX9hXbo2.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/oMaj75G2WFw66xI1TREg1hrToSg.jpg",
             "tmdb_id": 268896,
+            "type": "movie",
+            "rank": 9
+        },
+        {
+            "title": "Phi Vụ Italia",
+            "year": "2003",
+            "poster": "https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg",
+            "tmdb_id": 9654,
             "type": "movie",
             "rank": 10
         }
@@ -111,20 +111,20 @@
             "rank": 2
         },
         {
-            "title": "Kiều Sở",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
-            "tmdb_id": 289271,
-            "type": "tv",
-            "rank": 3
-        },
-        {
             "title": "Học Cách Chiến Đấu",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
             "tmdb_id": 312493,
+            "type": "tv",
+            "rank": 3
+        },
+        {
+            "title": "Kiều Sở",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
+            "tmdb_id": 289271,
             "type": "tv",
             "rank": 4
         },
@@ -132,37 +132,19 @@
             "title": "Biệt Đội Siêu Khờ",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
             "tmdb_id": 259837,
             "type": "tv",
             "rank": 5
         },
         {
-            "title": "Điều ước đoạt mạng",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-            "tmdb_id": 285838,
+            "title": "転生したらスライムだった件 転スラ日記",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
+            "tmdb_id": 118541,
             "type": "tv",
             "rank": 6
-        },
-        {
-            "title": "Trung Tâm Chăm Sóc Chấn Thương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-            "tmdb_id": 217553,
-            "type": "tv",
-            "rank": 7
-        },
-        {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-            "tmdb_id": 229891,
-            "type": "tv",
-            "rank": 8
         },
         {
             "title": "Tòa Án Vị Thành Niên",
@@ -171,14 +153,32 @@
             "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
             "tmdb_id": 112833,
             "type": "tv",
+            "rank": 7
+        },
+        {
+            "title": "Điều ước đoạt mạng",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+            "tmdb_id": 285838,
+            "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "Trung Tâm Chăm Sóc Chấn Thương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+            "tmdb_id": 217553,
+            "type": "tv",
             "rank": 9
         },
         {
-            "title": "Anh Hùng Yếu Ớt",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/z7LdovIn3S9l9HjowP9BNJuy5Y1.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-            "tmdb_id": 200709,
+            "title": "Tiếng yêu này, anh dịch được không?",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
             "rank": 10
         }
