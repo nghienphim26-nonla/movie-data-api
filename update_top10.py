@@ -5,7 +5,7 @@ import os
 # Cấu hình
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "vh7t7ZZedA3BQfYbZn2X"
+RECIPE_ID = "yv0nYyZYiOSEdCEHeuFZ"
 
 def get_tmdb(name, media_type="movie"):
     """Lấy thông tin từ TMDB (phân loại movie/tv để tìm chính xác hơn)"""
