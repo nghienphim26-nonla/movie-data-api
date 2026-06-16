@@ -1,11 +1,11 @@
 {
     "movies": [
         {
-            "title": "Quái Vật Dưới Gầm Giường",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
-            "tmdb_id": 1043197,
+            "title": "Thỏ Ơi!!",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/sjZk8omLpphedfbCBTXNMffc6ux.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6suNc1uHRi3LAasr7wvzVW5u5ew.jpg",
+            "tmdb_id": 1528577,
             "type": "movie",
             "rank": 1
         },
