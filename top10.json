@@ -1,11 +1,11 @@
 {
     "movies": [
         {
-            "title": "Thỏ Ơi!!",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/sjZk8omLpphedfbCBTXNMffc6ux.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6suNc1uHRi3LAasr7wvzVW5u5ew.jpg",
-            "tmdb_id": 1528577,
+            "title": "Quái Vật Dưới Gầm Giường",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+            "tmdb_id": 1043197,
             "type": "movie",
             "rank": 1
         },
@@ -19,29 +19,29 @@
             "rank": 2
         },
         {
-            "title": "Điệp Viên 007: Không Phải Lúc Chết ",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/6obsiTBb1D6Yc32q0BgAIFKOABu.jpg",
-            "backdrop": null,
-            "tmdb_id": 370172,
+            "title": "No compromise when it's time to die",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
+            "tmdb_id": 963992,
             "type": "movie",
             "rank": 3
         },
         {
-            "title": "Điệp Viên 007: Sòng Bạc Hoàng Gia ",
-            "year": "2006",
-            "poster": "https://image.tmdb.org/t/p/w500/2bC8sv1Y1A7rALFX9DFMdZAelmk.jpg",
+            "title": "カジノ・ロワイヤル ～我が名はボンド～",
+            "year": "2023",
+            "poster": "https://image.tmdb.org/t/p/w500/9mLWbvmgxMp18mgG1BWqsRssjCe.jpg",
             "backdrop": null,
-            "tmdb_id": 36557,
+            "tmdb_id": 1136860,
             "type": "movie",
             "rank": 4
         },
         {
-            "title": "Điệp Viên 007: Bóng Ma",
-            "year": "2015",
-            "poster": "https://image.tmdb.org/t/p/w500/iFVX0U069Faqn1oebydqukbZlR4.jpg",
-            "backdrop": null,
-            "tmdb_id": 206647,
+            "title": "Spectre",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eR7ExVKFpclCDr7jU7QVG9poPVC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xVi18EXUyPUiHTTEZJZa5TtqmQJ.jpg",
+            "tmdb_id": 1549738,
             "type": "movie",
             "rank": 5
         },
@@ -55,13 +55,22 @@
             "rank": 6
         },
         {
+            "title": "CHIKARA Quantum Of Solace",
+            "year": "2014",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 387102,
+            "type": "movie",
+            "rank": 7
+        },
+        {
             "title": "Bộ Tứ Báo Thủ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/iMb3hkqmO4tYayZ2JrN9ZvjCtcm.jpg",
             "tmdb_id": 1391703,
             "type": "movie",
-            "rank": 7
+            "rank": 8
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -70,7 +79,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
-            "rank": 8
+            "rank": 9
         },
         {
             "title": "Haere Mai",
@@ -78,15 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
             "tmdb_id": 1387782,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Spectre",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eR7ExVKFpclCDr7jU7QVG9poPVC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xVi18EXUyPUiHTTEZJZa5TtqmQJ.jpg",
-            "tmdb_id": 1549738,
             "type": "movie",
             "rank": 10
         }
@@ -120,31 +120,22 @@
             "rank": 3
         },
         {
-            "title": "Kiều Sở",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
-            "tmdb_id": 289271,
-            "type": "tv",
-            "rank": 4
-        },
-        {
             "title": "Tòa Án Vị Thành Niên",
             "year": "2022",
             "poster": "https://image.tmdb.org/t/p/w500/sWhB5ufz3hrJQMtxxlQzqjlrv2l.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
             "tmdb_id": 112833,
             "type": "tv",
-            "rank": 5
+            "rank": 4
         },
         {
-            "title": "Biệt Đội Siêu Khờ",
+            "title": "Kiều Sở",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-            "tmdb_id": 259837,
+            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
+            "tmdb_id": 289271,
             "type": "tv",
-            "rank": 6
+            "rank": 5
         },
         {
             "title": "Trung Tâm Chăm Sóc Chấn Thương",
@@ -152,6 +143,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
             "tmdb_id": 217553,
+            "type": "tv",
+            "rank": 6
+        },
+        {
+            "title": "Biệt Đội Siêu Khờ",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+            "tmdb_id": 259837,
             "type": "tv",
             "rank": 7
         },
@@ -174,11 +174,11 @@
             "rank": 9
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "Anh Hùng Yếu Ớt",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/z7LdovIn3S9l9HjowP9BNJuy5Y1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+            "tmdb_id": 200709,
             "type": "tv",
             "rank": 10
         }
