@@ -4,7 +4,7 @@
             "title": "Khi chồng hợp lực",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
             "tmdb_id": 1451344,
             "type": "movie",
             "rank": 1
@@ -37,11 +37,11 @@
             "rank": 4
         },
         {
-            "title": "Lính Đánh Thuê",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/rJPGPZ5soaG27MK90oKpioSiJE2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/rSrJW3MHZLWBtiNV3fbVaqNYVpy.jpg",
-            "tmdb_id": 628900,
+            "title": "Thư thoại cho Isabelle",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+            "tmdb_id": 614945,
             "type": "movie",
             "rank": 5
         },
@@ -55,13 +55,31 @@
             "rank": 6
         },
         {
+            "title": "The Tales of Victor The Misfits Creator",
+            "year": "2026",
+            "poster": null,
+            "backdrop": null,
+            "tmdb_id": 1662880,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Lính Đánh Thuê",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/rJPGPZ5soaG27MK90oKpioSiJE2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/rSrJW3MHZLWBtiNV3fbVaqNYVpy.jpg",
+            "tmdb_id": 628900,
+            "type": "movie",
+            "rank": 8
+        },
+        {
             "title": "Skyfall: Shooting Bond",
             "year": "2013",
             "poster": "https://image.tmdb.org/t/p/w500/gwfUeaAcb41OI29NY79wYylHoLt.jpg",
             "backdrop": null,
             "tmdb_id": 1257482,
             "type": "movie",
-            "rank": 7
+            "rank": 9
         },
         {
             "title": "Spectre",
@@ -69,24 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/eR7ExVKFpclCDr7jU7QVG9poPVC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/xVi18EXUyPUiHTTEZJZa5TtqmQJ.jpg",
             "tmdb_id": 1549738,
-            "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "CHIKARA Quantum Of Solace",
-            "year": "2014",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 387102,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
             "type": "movie",
             "rank": 10
         }
@@ -102,7 +102,7 @@
             "rank": 1
         },
         {
-            "title": "วาดฝันวันวิวาห์",
+            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
@@ -138,11 +138,11 @@
             "rank": 5
         },
         {
-            "title": "Học Cách Chiến Đấu",
+            "title": "Kiều Sở",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
-            "tmdb_id": 312493,
+            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
+            "tmdb_id": 289271,
             "type": "tv",
             "rank": 6
         },
@@ -156,13 +156,22 @@
             "rank": 7
         },
         {
-            "title": "Kiều Sở",
+            "title": "Học Cách Chiến Đấu",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
-            "tmdb_id": 289271,
+            "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
+            "tmdb_id": 312493,
             "type": "tv",
             "rank": 8
+        },
+        {
+            "title": "転生したらスライムだった件 転スラ日記",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/tei5WNmvLkhMUkl4RiIibNLen01.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/boeZP8zaXTDBkKPpdAojS6uYKdt.jpg",
+            "tmdb_id": 118541,
+            "type": "tv",
+            "rank": 9
         },
         {
             "title": "Biệt Đội Siêu Khờ",
@@ -170,15 +179,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
             "tmdb_id": 259837,
-            "type": "tv",
-            "rank": 9
-        },
-        {
-            "title": "Anh Hùng Yếu Ớt",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/z7LdovIn3S9l9HjowP9BNJuy5Y1.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-            "tmdb_id": 200709,
             "type": "tv",
             "rank": 10
         }
