@@ -19,20 +19,20 @@
             "rank": 2
         },
         {
+            "title": "Thư thoại cho Isabelle",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+            "tmdb_id": 614945,
+            "type": "movie",
+            "rank": 3
+        },
+        {
             "title": "No compromise when it's time to die",
             "year": "2022",
             "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
             "tmdb_id": 963992,
-            "type": "movie",
-            "rank": 3
-        },
-        {
-            "title": "Thư thoại cho Isabelle",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-            "tmdb_id": 614945,
             "type": "movie",
             "rank": 4
         },
@@ -55,22 +55,31 @@
             "rank": 6
         },
         {
-            "title": "Skyfall: Shooting Bond",
-            "year": "2013",
-            "poster": "https://image.tmdb.org/t/p/w500/gwfUeaAcb41OI29NY79wYylHoLt.jpg",
-            "backdrop": null,
-            "tmdb_id": 1257482,
-            "type": "movie",
-            "rank": 7
-        },
-        {
             "title": "The Tales of Victor The Misfits Creator",
             "year": "2026",
             "poster": null,
             "backdrop": null,
             "tmdb_id": 1662880,
             "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Skyfall: Shooting Bond",
+            "year": "2013",
+            "poster": "https://image.tmdb.org/t/p/w500/gwfUeaAcb41OI29NY79wYylHoLt.jpg",
+            "backdrop": null,
+            "tmdb_id": 1257482,
+            "type": "movie",
             "rank": 8
+        },
+        {
+            "title": "Lính Đánh Thuê",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/rJPGPZ5soaG27MK90oKpioSiJE2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/rSrJW3MHZLWBtiNV3fbVaqNYVpy.jpg",
+            "tmdb_id": 628900,
+            "type": "movie",
+            "rank": 9
         },
         {
             "title": "Spectre",
@@ -78,15 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/eR7ExVKFpclCDr7jU7QVG9poPVC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/xVi18EXUyPUiHTTEZJZa5TtqmQJ.jpg",
             "tmdb_id": 1549738,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "CHIKARA Quantum Of Solace",
-            "year": "2014",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 387102,
             "type": "movie",
             "rank": 10
         }
@@ -156,29 +156,29 @@
             "rank": 7
         },
         {
-            "title": "Biệt Đội Siêu Khờ",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-            "tmdb_id": 259837,
-            "type": "tv",
-            "rank": 8
-        },
-        {
             "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
             "tmdb_id": 229891,
             "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "Biệt Đội Siêu Khờ",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+            "tmdb_id": 259837,
+            "type": "tv",
             "rank": 9
         },
         {
-            "title": "Wistoria: Trượng và Kiếm",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/3vHQkuX4V1N1jI7TVPQe3J4xyvW.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-            "tmdb_id": 245842,
+            "title": "Anh Hùng Yếu Ớt",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/z7LdovIn3S9l9HjowP9BNJuy5Y1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+            "tmdb_id": 200709,
             "type": "tv",
             "rank": 10
         }
