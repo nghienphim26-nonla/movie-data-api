@@ -46,20 +46,20 @@
             "rank": 5
         },
         {
-            "title": "カジノ・ロワイヤル ～我が名はボンド～",
-            "year": "2023",
-            "poster": "https://image.tmdb.org/t/p/w500/9mLWbvmgxMp18mgG1BWqsRssjCe.jpg",
-            "backdrop": null,
-            "tmdb_id": 1136860,
-            "type": "movie",
-            "rank": 6
-        },
-        {
             "title": "The Tales of Victor The Misfits Creator",
             "year": "2026",
             "poster": null,
             "backdrop": null,
             "tmdb_id": 1662880,
+            "type": "movie",
+            "rank": 6
+        },
+        {
+            "title": "カジノ・ロワイヤル ～我が名はボンド～",
+            "year": "2023",
+            "poster": "https://image.tmdb.org/t/p/w500/9mLWbvmgxMp18mgG1BWqsRssjCe.jpg",
+            "backdrop": null,
+            "tmdb_id": 1136860,
             "type": "movie",
             "rank": 7
         },
@@ -73,20 +73,20 @@
             "rank": 8
         },
         {
-            "title": "Lính Đánh Thuê",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/rJPGPZ5soaG27MK90oKpioSiJE2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/rSrJW3MHZLWBtiNV3fbVaqNYVpy.jpg",
-            "tmdb_id": 628900,
-            "type": "movie",
-            "rank": 9
-        },
-        {
             "title": "Spectre",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/eR7ExVKFpclCDr7jU7QVG9poPVC.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/xVi18EXUyPUiHTTEZJZa5TtqmQJ.jpg",
             "tmdb_id": 1549738,
+            "type": "movie",
+            "rank": 9
+        },
+        {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
             "type": "movie",
             "rank": 10
         }
@@ -105,7 +105,7 @@
             "title": "Cha sẽ tìm con",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/2yDDwP48GqL9Fpb6UEgGHyqM63y.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
             "tmdb_id": 278178,
             "type": "tv",
             "rank": 2
@@ -138,31 +138,22 @@
             "rank": 5
         },
         {
-            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
-            "tmdb_id": 308834,
-            "type": "tv",
-            "rank": 6
-        },
-        {
-            "title": "Kiều Sở",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
-            "tmdb_id": 289271,
-            "type": "tv",
-            "rank": 7
-        },
-        {
             "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
             "tmdb_id": 229891,
             "type": "tv",
-            "rank": 8
+            "rank": 6
+        },
+        {
+            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
+            "tmdb_id": 308834,
+            "type": "tv",
+            "rank": 7
         },
         {
             "title": "Biệt Đội Siêu Khờ",
@@ -170,6 +161,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
             "tmdb_id": 259837,
+            "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "Kiều Sở",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
+            "tmdb_id": 289271,
             "type": "tv",
             "rank": 9
         },
