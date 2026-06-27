@@ -4,7 +4,7 @@
             "title": "Khi chồng hợp lực",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
             "tmdb_id": 1451344,
             "type": "movie",
             "rank": 1
@@ -37,22 +37,31 @@
             "rank": 4
         },
         {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
+            "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Quỷ Dữ Từ Luyện Ngục",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tHdZw7MzY7ROs3ADmgELe3X09X2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fZ5AD2CpUPSk0wRkxz1j6kp5bdG.jpg",
+            "tmdb_id": 1543151,
+            "type": "movie",
+            "rank": 6
+        },
+        {
             "title": "Hoàng Tử Quỷ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/pX8kCc2ZP82rAZ8IwDsdun1FCAD.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vxac2KMW3xo0nXjaEl9vAv3aiUD.jpg",
             "tmdb_id": 1526531,
             "type": "movie",
-            "rank": 5
-        },
-        {
-            "title": "The Tales of Victor The Misfits Creator",
-            "year": "2026",
-            "poster": null,
-            "backdrop": null,
-            "tmdb_id": 1662880,
-            "type": "movie",
-            "rank": 6
+            "rank": 7
         },
         {
             "title": "カジノ・ロワイヤル ～我が名はボンド～",
@@ -61,7 +70,16 @@
             "backdrop": null,
             "tmdb_id": 1136860,
             "type": "movie",
-            "rank": 7
+            "rank": 8
+        },
+        {
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
+            "type": "movie",
+            "rank": 9
         },
         {
             "title": "Skyfall: Shooting Bond",
@@ -69,24 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/gwfUeaAcb41OI29NY79wYylHoLt.jpg",
             "backdrop": null,
             "tmdb_id": 1257482,
-            "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Spectre",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eR7ExVKFpclCDr7jU7QVG9poPVC.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xVi18EXUyPUiHTTEZJZa5TtqmQJ.jpg",
-            "tmdb_id": 1549738,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
             "type": "movie",
             "rank": 10
         }
@@ -111,40 +111,22 @@
             "rank": 2
         },
         {
-            "title": "Kẻ Thù Hoàng Gia Của Tôi",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-            "tmdb_id": 303143,
+            "title": "Thế Thần: Ngự khí sư cuối cùng",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+            "tmdb_id": 82452,
             "type": "tv",
             "rank": 3
         },
         {
-            "title": "Tòa Án Vị Thành Niên",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/sWhB5ufz3hrJQMtxxlQzqjlrv2l.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
-            "tmdb_id": 112833,
+            "title": "Đặc Vụ Kim Tái Khởi Động",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+            "tmdb_id": 296206,
             "type": "tv",
             "rank": 4
-        },
-        {
-            "title": "Trung Tâm Chăm Sóc Chấn Thương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-            "tmdb_id": 217553,
-            "type": "tv",
-            "rank": 5
-        },
-        {
-            "title": "Tiếng yêu này, anh dịch được không?",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-            "tmdb_id": 229891,
-            "type": "tv",
-            "rank": 6
         },
         {
             "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
@@ -153,32 +135,50 @@
             "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
             "tmdb_id": 308834,
             "type": "tv",
+            "rank": 5
+        },
+        {
+            "title": "Kẻ Thù Hoàng Gia Của Tôi",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+            "tmdb_id": 303143,
+            "type": "tv",
+            "rank": 6
+        },
+        {
+            "title": "Tòa Án Vị Thành Niên",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/sWhB5ufz3hrJQMtxxlQzqjlrv2l.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
+            "tmdb_id": 112833,
+            "type": "tv",
             "rank": 7
         },
         {
-            "title": "Biệt Đội Siêu Khờ",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-            "tmdb_id": 259837,
+            "title": "Trung Tâm Chăm Sóc Chấn Thương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+            "tmdb_id": 217553,
             "type": "tv",
             "rank": 8
         },
         {
-            "title": "Kiều Sở",
+            "title": "Những ghi chú ở hàng cuối",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/5uwpmYpvtqWHt7HpEYsYCodmZ3f.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
-            "tmdb_id": 289271,
+            "poster": "https://image.tmdb.org/t/p/w500/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+            "tmdb_id": 286360,
             "type": "tv",
             "rank": 9
         },
         {
-            "title": "Anh Hùng Yếu Ớt",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/z7LdovIn3S9l9HjowP9BNJuy5Y1.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
-            "tmdb_id": 200709,
+            "title": "Tiếng yêu này, anh dịch được không?",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+            "tmdb_id": 229891,
             "type": "tv",
             "rank": 10
         }
