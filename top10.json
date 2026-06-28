@@ -1,20 +1,20 @@
 {
     "movies": [
         {
-            "title": "Khi chồng hợp lực",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
-            "tmdb_id": 1451344,
-            "type": "movie",
-            "rank": 1
-        },
-        {
             "title": "Ted Bunny",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/42AaFCFj9O8cTybOegrCBWH1bvA.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/qzx4kMKg9QEobWrbsLhvtkOMHsV.jpg",
             "tmdb_id": 1588101,
+            "type": "movie",
+            "rank": 1
+        },
+        {
+            "title": "Khi chồng hợp lực",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
+            "tmdb_id": 1451344,
             "type": "movie",
             "rank": 2
         },
@@ -46,13 +46,22 @@
             "rank": 5
         },
         {
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
+            "type": "movie",
+            "rank": 6
+        },
+        {
             "title": "Quỷ Dữ Từ Luyện Ngục",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/tHdZw7MzY7ROs3ADmgELe3X09X2.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/fZ5AD2CpUPSk0wRkxz1j6kp5bdG.jpg",
             "tmdb_id": 1543151,
             "type": "movie",
-            "rank": 6
+            "rank": 7
         },
         {
             "title": "Hoàng Tử Quỷ",
@@ -61,7 +70,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/vxac2KMW3xo0nXjaEl9vAv3aiUD.jpg",
             "tmdb_id": 1526531,
             "type": "movie",
-            "rank": 7
+            "rank": 8
+        },
+        {
+            "title": "Em trai",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+            "tmdb_id": 1397385,
+            "type": "movie",
+            "rank": 9
         },
         {
             "title": "カジノ・ロワイヤル ～我が名はボンド～",
@@ -70,28 +88,19 @@
             "backdrop": null,
             "tmdb_id": 1136860,
             "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Skyfall: Shooting Bond",
-            "year": "2013",
-            "poster": "https://image.tmdb.org/t/p/w500/gwfUeaAcb41OI29NY79wYylHoLt.jpg",
-            "backdrop": null,
-            "tmdb_id": 1257482,
-            "type": "movie",
             "rank": 10
         }
     ],
     "tv_shows": [
+        {
+            "title": "Đặc Vụ Kim Tái Khởi Động",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+            "tmdb_id": 296206,
+            "type": "tv",
+            "rank": 1
+        },
         {
             "title": "Bài học đáng đời",
             "year": "2026",
@@ -99,7 +108,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
             "tmdb_id": 276161,
             "type": "tv",
-            "rank": 1
+            "rank": 2
         },
         {
             "title": "Cha sẽ tìm con",
@@ -108,7 +117,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
             "tmdb_id": 278178,
             "type": "tv",
-            "rank": 2
+            "rank": 3
         },
         {
             "title": "Thế Thần: Ngự khí sư cuối cùng",
@@ -117,16 +126,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
             "tmdb_id": 82452,
             "type": "tv",
-            "rank": 3
+            "rank": 4
         },
         {
-            "title": "Đặc Vụ Kim Tái Khởi Động",
+            "title": "Những ghi chú ở hàng cuối",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-            "tmdb_id": 296206,
+            "poster": "https://image.tmdb.org/t/p/w500/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+            "tmdb_id": 286360,
             "type": "tv",
-            "rank": 4
+            "rank": 5
         },
         {
             "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
@@ -135,7 +144,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
             "tmdb_id": 308834,
             "type": "tv",
-            "rank": 5
+            "rank": 6
         },
         {
             "title": "Kẻ Thù Hoàng Gia Của Tôi",
@@ -144,7 +153,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
             "tmdb_id": 303143,
             "type": "tv",
-            "rank": 6
+            "rank": 7
         },
         {
             "title": "Tòa Án Vị Thành Niên",
@@ -153,7 +162,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
             "tmdb_id": 112833,
             "type": "tv",
-            "rank": 7
+            "rank": 8
         },
         {
             "title": "Trung Tâm Chăm Sóc Chấn Thương",
@@ -161,15 +170,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
             "tmdb_id": 217553,
-            "type": "tv",
-            "rank": 8
-        },
-        {
-            "title": "Những ghi chú ở hàng cuối",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
-            "tmdb_id": 286360,
             "type": "tv",
             "rank": 9
         },
