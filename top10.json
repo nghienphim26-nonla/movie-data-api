@@ -19,31 +19,22 @@
             "rank": 2
         },
         {
-            "title": "Thư thoại cho Isabelle",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-            "tmdb_id": 614945,
-            "type": "movie",
-            "rank": 3
-        },
-        {
             "title": "No compromise when it's time to die",
             "year": "2022",
             "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
             "tmdb_id": 963992,
             "type": "movie",
-            "rank": 4
+            "rank": 3
         },
         {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
+            "title": "Thư thoại cho Isabelle",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+            "tmdb_id": 614945,
             "type": "movie",
-            "rank": 5
+            "rank": 4
         },
         {
             "title": "Kẻ Trộm Mặt Trăng 4",
@@ -51,6 +42,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
             "tmdb_id": 519182,
+            "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Em trai",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+            "tmdb_id": 1397385,
             "type": "movie",
             "rank": 6
         },
@@ -64,29 +64,29 @@
             "rank": 7
         },
         {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
+            "type": "movie",
+            "rank": 8
+        },
+        {
             "title": "Hoàng Tử Quỷ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/pX8kCc2ZP82rAZ8IwDsdun1FCAD.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vxac2KMW3xo0nXjaEl9vAv3aiUD.jpg",
             "tmdb_id": 1526531,
             "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Em trai",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-            "tmdb_id": 1397385,
-            "type": "movie",
             "rank": 9
         },
         {
-            "title": "カジノ・ロワイヤル ～我が名はボンド～",
-            "year": "2023",
-            "poster": "https://image.tmdb.org/t/p/w500/9mLWbvmgxMp18mgG1BWqsRssjCe.jpg",
-            "backdrop": null,
-            "tmdb_id": 1136860,
+            "title": "Haere Mai",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
+            "tmdb_id": 1387782,
             "type": "movie",
             "rank": 10
         }
@@ -138,22 +138,13 @@
             "rank": 5
         },
         {
-            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
-            "tmdb_id": 308834,
-            "type": "tv",
-            "rank": 6
-        },
-        {
             "title": "Kẻ Thù Hoàng Gia Của Tôi",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
             "tmdb_id": 303143,
             "type": "tv",
-            "rank": 7
+            "rank": 6
         },
         {
             "title": "Tòa Án Vị Thành Niên",
@@ -162,7 +153,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
             "tmdb_id": 112833,
             "type": "tv",
-            "rank": 8
+            "rank": 7
         },
         {
             "title": "Trung Tâm Chăm Sóc Chấn Thương",
@@ -170,6 +161,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
             "tmdb_id": 217553,
+            "type": "tv",
+            "rank": 8
+        },
+        {
+            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
+            "tmdb_id": 308834,
             "type": "tv",
             "rank": 9
         },
