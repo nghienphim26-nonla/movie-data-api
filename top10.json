@@ -19,11 +19,11 @@
             "rank": 2
         },
         {
-            "title": "No compromise when it's time to die",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
-            "tmdb_id": 963992,
+            "title": "Kẻ Trộm Mặt Trăng 4",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+            "tmdb_id": 519182,
             "type": "movie",
             "rank": 3
         },
@@ -37,11 +37,11 @@
             "rank": 4
         },
         {
-            "title": "Kẻ Trộm Mặt Trăng 4",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-            "tmdb_id": 519182,
+            "title": "No compromise when it's time to die",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
+            "tmdb_id": 963992,
             "type": "movie",
             "rank": 5
         },
@@ -49,19 +49,10 @@
             "title": "Em trai",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/sbQ3laeMPGNcKoeNguC2f7rSxWT.jpg",
             "tmdb_id": 1397385,
             "type": "movie",
             "rank": 6
-        },
-        {
-            "title": "Quỷ Dữ Từ Luyện Ngục",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/tHdZw7MzY7ROs3ADmgELe3X09X2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fZ5AD2CpUPSk0wRkxz1j6kp5bdG.jpg",
-            "tmdb_id": 1543151,
-            "type": "movie",
-            "rank": 7
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -70,16 +61,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
-            "rank": 8
+            "rank": 7
         },
         {
-            "title": "Hoàng Tử Quỷ",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/pX8kCc2ZP82rAZ8IwDsdun1FCAD.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/vxac2KMW3xo0nXjaEl9vAv3aiUD.jpg",
-            "tmdb_id": 1526531,
+            "title": "Quỷ Dữ Từ Luyện Ngục",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tHdZw7MzY7ROs3ADmgELe3X09X2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fZ5AD2CpUPSk0wRkxz1j6kp5bdG.jpg",
+            "tmdb_id": 1543151,
             "type": "movie",
-            "rank": 9
+            "rank": 8
         },
         {
             "title": "Haere Mai",
@@ -87,6 +78,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
             "tmdb_id": 1387782,
+            "type": "movie",
+            "rank": 9
+        },
+        {
+            "title": "Hoàng Tử Quỷ",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/pX8kCc2ZP82rAZ8IwDsdun1FCAD.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/vxac2KMW3xo0nXjaEl9vAv3aiUD.jpg",
+            "tmdb_id": 1526531,
             "type": "movie",
             "rank": 10
         }
@@ -111,20 +111,20 @@
             "rank": 2
         },
         {
-            "title": "Cha sẽ tìm con",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
-            "tmdb_id": 278178,
-            "type": "tv",
-            "rank": 3
-        },
-        {
             "title": "Thế Thần: Ngự khí sư cuối cùng",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
             "tmdb_id": 82452,
+            "type": "tv",
+            "rank": 3
+        },
+        {
+            "title": "Cha sẽ tìm con",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
+            "tmdb_id": 278178,
             "type": "tv",
             "rank": 4
         },
@@ -165,20 +165,20 @@
             "rank": 8
         },
         {
-            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/28QpybDe3wN8oqecTWwREULuH4k.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
-            "tmdb_id": 308834,
-            "type": "tv",
-            "rank": 9
-        },
-        {
             "title": "Tiếng yêu này, anh dịch được không?",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/xvlfY1XjZ2kKdaCCDvZLPTB65JG.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
             "tmdb_id": 229891,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Không Dung Thứ",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/flcndH4dpInBrLxlSTqgqjsfNhb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+            "tmdb_id": 232766,
             "type": "tv",
             "rank": 10
         }
