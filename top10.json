@@ -46,20 +46,20 @@
             "rank": 5
         },
         {
+            "title": "dont.4get2smile",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/5xDLmivVHwuJThflv264oSbelYs.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/wNVxvEq1BTL2DGnu2fINNa1mzFc.jpg",
+            "tmdb_id": 1495778,
+            "type": "movie",
+            "rank": 6
+        },
+        {
             "title": "Into the Blue Again",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/k7ajBP0y3TrwAwKQD05vMhfC6Tm.jpg",
             "backdrop": null,
             "tmdb_id": 1659863,
-            "type": "movie",
-            "rank": 6
-        },
-        {
-            "title": "No compromise when it's time to die",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
-            "tmdb_id": 963992,
             "type": "movie",
             "rank": 7
         },
@@ -73,11 +73,11 @@
             "rank": 8
         },
         {
-            "title": "Quỷ Dữ Từ Luyện Ngục",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/tHdZw7MzY7ROs3ADmgELe3X09X2.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fZ5AD2CpUPSk0wRkxz1j6kp5bdG.jpg",
-            "tmdb_id": 1543151,
+            "title": "No compromise when it's time to die",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
+            "tmdb_id": 963992,
             "type": "movie",
             "rank": 9
         },
@@ -147,13 +147,31 @@
             "rank": 6
         },
         {
+            "title": "Vẽ Nên Giấc Mơ Ngày Cưới",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/s0yRRK12D806wMWP9QpCoBEqT2C.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/BXj7NG7OKLL7vW6qmL15Ru5rlI.jpg",
+            "tmdb_id": 308834,
+            "type": "tv",
+            "rank": 7
+        },
+        {
             "title": "Kẻ Thù Hoàng Gia Của Tôi",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/clZk5bEPYTbZOCRGhFMhzQSdXRj.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
             "tmdb_id": 303143,
             "type": "tv",
-            "rank": 7
+            "rank": 8
+        },
+        {
+            "title": "Người khí",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/sCyaMdzj1I9d0j8Ns0SjOM1FV7a.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
+            "tmdb_id": 253960,
+            "type": "tv",
+            "rank": 9
         },
         {
             "title": "Murder at the Post Office",
@@ -161,24 +179,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/hIhW7L0rc5Vancr0HvFLu0M7AUH.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/f8CQHKlJf9qQ7PgRHSZBw2v0YDu.jpg",
             "tmdb_id": 308989,
-            "type": "tv",
-            "rank": 8
-        },
-        {
-            "title": "Tòa Án Vị Thành Niên",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/sWhB5ufz3hrJQMtxxlQzqjlrv2l.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
-            "tmdb_id": 112833,
-            "type": "tv",
-            "rank": 9
-        },
-        {
-            "title": "Trung Tâm Chăm Sóc Chấn Thương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-            "tmdb_id": 217553,
             "type": "tv",
             "rank": 10
         }
