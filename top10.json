@@ -28,22 +28,13 @@
             "rank": 3
         },
         {
-            "title": "Thư thoại cho Isabelle",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-            "tmdb_id": 614945,
-            "type": "movie",
-            "rank": 4
-        },
-        {
             "title": "Khi chồng hợp lực",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
             "tmdb_id": 1451344,
             "type": "movie",
-            "rank": 5
+            "rank": 4
         },
         {
             "title": "dont.4get2smile",
@@ -52,7 +43,34 @@
             "backdrop": "https://image.tmdb.org/t/p/original/wNVxvEq1BTL2DGnu2fINNa1mzFc.jpg",
             "tmdb_id": 1495778,
             "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Thư thoại cho Isabelle",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+            "tmdb_id": 614945,
+            "type": "movie",
             "rank": 6
+        },
+        {
+            "title": "The Pigeon Hustle",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/nv6Q53hqx4OeWeq7azghoie1VkM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/6745KJiCrYWdmJLXU9ZWdwoyOBI.jpg",
+            "tmdb_id": 1526077,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Quá Nhanh Quá Nguy Hiểm 9",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/5oaDTTElswDOTEOaO9NquregYCM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+            "tmdb_id": 385128,
+            "type": "movie",
+            "rank": 8
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -61,16 +79,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
-            "rank": 7
-        },
-        {
-            "title": "No compromise when it's time to die",
-            "year": "2022",
-            "poster": "https://image.tmdb.org/t/p/w500/xSbqG27qIrTLoVxJQv8FJDftlX5.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/k5kc89G8a7kBnlkTqGAo8xP8Bd7.jpg",
-            "tmdb_id": 963992,
-            "type": "movie",
-            "rank": 8
+            "rank": 9
         },
         {
             "title": "Haere Mai",
@@ -78,15 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
             "tmdb_id": 1387782,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Into the Blue Again",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/k7ajBP0y3TrwAwKQD05vMhfC6Tm.jpg",
-            "backdrop": null,
-            "tmdb_id": 1659863,
             "type": "movie",
             "rank": 10
         }
@@ -120,20 +120,20 @@
             "rank": 3
         },
         {
-            "title": "Thế Thần: Ngự khí sư cuối cùng",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
-            "tmdb_id": 82452,
-            "type": "tv",
-            "rank": 4
-        },
-        {
             "title": "Không Dung Thứ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/flcndH4dpInBrLxlSTqgqjsfNhb.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
             "tmdb_id": 232766,
+            "type": "tv",
+            "rank": 4
+        },
+        {
+            "title": "Thế Thần: Ngự khí sư cuối cùng",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+            "tmdb_id": 82452,
             "type": "tv",
             "rank": 5
         },
@@ -141,7 +141,7 @@
             "title": "Cha sẽ tìm con",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
             "tmdb_id": 278178,
             "type": "tv",
             "rank": 6
