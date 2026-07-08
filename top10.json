@@ -10,49 +10,13 @@
             "rank": 1
         },
         {
-            "title": "Enola Holmes 3",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-            "tmdb_id": 1202033,
-            "type": "movie",
-            "rank": 2
-        },
-        {
             "title": "Kẻ Trộm Mặt Trăng 4",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/lYr8DyAz9HeQX4ZFOhYWEYwKe2h.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
             "tmdb_id": 519182,
             "type": "movie",
-            "rank": 3
-        },
-        {
-            "title": "Khi chồng hợp lực",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
-            "tmdb_id": 1451344,
-            "type": "movie",
-            "rank": 4
-        },
-        {
-            "title": "dont.4get2smile",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/5xDLmivVHwuJThflv264oSbelYs.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/wNVxvEq1BTL2DGnu2fINNa1mzFc.jpg",
-            "tmdb_id": 1495778,
-            "type": "movie",
-            "rank": 5
-        },
-        {
-            "title": "Thư thoại cho Isabelle",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-            "tmdb_id": 614945,
-            "type": "movie",
-            "rank": 6
+            "rank": 2
         },
         {
             "title": "The Pigeon Hustle",
@@ -61,7 +25,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/6745KJiCrYWdmJLXU9ZWdwoyOBI.jpg",
             "tmdb_id": 1526077,
             "type": "movie",
-            "rank": 7
+            "rank": 3
+        },
+        {
+            "title": "Enola Holmes 3",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+            "tmdb_id": 1202033,
+            "type": "movie",
+            "rank": 4
         },
         {
             "title": "Quá Nhanh Quá Nguy Hiểm 9",
@@ -69,6 +42,33 @@
             "poster": "https://image.tmdb.org/t/p/w500/5oaDTTElswDOTEOaO9NquregYCM.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
             "tmdb_id": 385128,
+            "type": "movie",
+            "rank": 5
+        },
+        {
+            "title": "Khi chồng hợp lực",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
+            "tmdb_id": 1451344,
+            "type": "movie",
+            "rank": 6
+        },
+        {
+            "title": "dont.4get2smile",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/5xDLmivVHwuJThflv264oSbelYs.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/wNVxvEq1BTL2DGnu2fINNa1mzFc.jpg",
+            "tmdb_id": 1495778,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Thư thoại cho Isabelle",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+            "tmdb_id": 614945,
             "type": "movie",
             "rank": 8
         },
@@ -82,11 +82,11 @@
             "rank": 9
         },
         {
-            "title": "Haere Mai",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
-            "tmdb_id": 1387782,
+            "title": "Fast & Furious X: Phần 2",
+            "year": "2028",
+            "poster": "https://image.tmdb.org/t/p/w500/xaRzhQZ3zK5lN6vEetG8PD17KPF.jpg",
+            "backdrop": null,
+            "tmdb_id": 755679,
             "type": "movie",
             "rank": 10
         }
@@ -111,20 +111,20 @@
             "rank": 2
         },
         {
-            "title": "Thất nghiệp chuyển sinh",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-            "tmdb_id": 94664,
-            "type": "tv",
-            "rank": 3
-        },
-        {
             "title": "Không Dung Thứ",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/flcndH4dpInBrLxlSTqgqjsfNhb.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
             "tmdb_id": 232766,
+            "type": "tv",
+            "rank": 3
+        },
+        {
+            "title": "Thất nghiệp chuyển sinh",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+            "tmdb_id": 94664,
             "type": "tv",
             "rank": 4
         },
@@ -138,20 +138,20 @@
             "rank": 5
         },
         {
-            "title": "Cha sẽ tìm con",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
-            "tmdb_id": 278178,
-            "type": "tv",
-            "rank": 6
-        },
-        {
             "title": "Người khí",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
             "tmdb_id": 253960,
+            "type": "tv",
+            "rank": 6
+        },
+        {
+            "title": "Cha sẽ tìm con",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
+            "tmdb_id": 278178,
             "type": "tv",
             "rank": 7
         },
