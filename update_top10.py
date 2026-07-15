@@ -6,7 +6,7 @@ from datetime import datetime # Thêm thư viện này để xử lý ngày thá
 # Cấu hình
 SS_API_KEY = os.getenv("SIMPLESCRAPER_API_KEY")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-RECIPE_ID = "yv0nYyZYiOSEdCEHeuFZ"
+RECIPE_ID = "Zz67Ecf797JnW1lbvwl7"
 
 def get_tmdb(name, media_type="movie"):
     """Lấy thông tin từ TMDB và chọn phim có năm sản xuất mới nhất"""
