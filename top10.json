@@ -28,31 +28,22 @@
             "rank": 3
         },
         {
-            "title": "The Pigeon Hustle",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/nv6Q53hqx4OeWeq7azghoie1VkM.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/6745KJiCrYWdmJLXU9ZWdwoyOBI.jpg",
-            "tmdb_id": 1526077,
-            "type": "movie",
-            "rank": 4
-        },
-        {
             "title": "Journey 2: Hòn Đảo Huyền Bí",
             "year": "2012",
             "poster": "https://image.tmdb.org/t/p/w500/a0HtE4BMLUsi3y3lAh9isLYjlto.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/fZvAroq9Vb5hhyKT6TxsjxJW7nm.jpg",
             "tmdb_id": 72545,
             "type": "movie",
-            "rank": 5
+            "rank": 4
         },
         {
-            "title": "Quá Nhanh Quá Nguy Hiểm 9",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/5oaDTTElswDOTEOaO9NquregYCM.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
-            "tmdb_id": 385128,
+            "title": "The Pigeon Hustle",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/cGDsUyUTfdmfwhGsPhkJkjmiK2h.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/35Yft6pf3gR1t08LSbkkgnPoLcJ.jpg",
+            "tmdb_id": 1526077,
             "type": "movie",
-            "rank": 6
+            "rank": 5
         },
         {
             "title": "tần số ngầm",
@@ -61,16 +52,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
             "tmdb_id": 1480387,
             "type": "movie",
-            "rank": 7
-        },
-        {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
-            "type": "movie",
-            "rank": 8
+            "rank": 6
         },
         {
             "title": "Hope Springs Eternal: A Look Back at The Shawshank Redemption",
@@ -78,6 +60,24 @@
             "poster": "https://image.tmdb.org/t/p/w500/v4wcS8XwUn5zl57rYRMzMnKahmt.jpg",
             "backdrop": null,
             "tmdb_id": 897459,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Quá Nhanh Quá Nguy Hiểm 9",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/5oaDTTElswDOTEOaO9NquregYCM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+            "tmdb_id": 385128,
+            "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
             "type": "movie",
             "rank": 9
         },
@@ -147,31 +147,22 @@
             "rank": 6
         },
         {
-            "title": "Thất nghiệp chuyển sinh",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-            "tmdb_id": 94664,
-            "type": "tv",
-            "rank": 7
-        },
-        {
             "title": "Cha sẽ tìm con",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
             "tmdb_id": 278178,
             "type": "tv",
-            "rank": 8
+            "rank": 7
         },
         {
-            "title": "Người khí",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
-            "tmdb_id": 253960,
+            "title": "Thất nghiệp chuyển sinh",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+            "tmdb_id": 94664,
             "type": "tv",
-            "rank": 9
+            "rank": 8
         },
         {
             "title": "Trung Tâm Chăm Sóc Chấn Thương",
@@ -179,6 +170,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/eP1LB0UDUGFzVIgca3eThnegWAv.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
             "tmdb_id": 217553,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Người khí",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
+            "tmdb_id": 253960,
             "type": "tv",
             "rank": 10
         }
