@@ -1,13 +1,22 @@
 {
     "movies": [
         {
+            "title": "Xạ Thủ Bắn Tỉa: Vô Tổ Quốc",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+            "tmdb_id": 1641319,
+            "type": "movie",
+            "rank": 1
+        },
+        {
             "title": "Ted Bunny",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/42AaFCFj9O8cTybOegrCBWH1bvA.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/qzx4kMKg9QEobWrbsLhvtkOMHsV.jpg",
             "tmdb_id": 1588101,
             "type": "movie",
-            "rank": 1
+            "rank": 2
         },
         {
             "title": "Kẻ Trộm Mặt Trăng 4",
@@ -16,7 +25,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
             "tmdb_id": 519182,
             "type": "movie",
-            "rank": 2
+            "rank": 3
         },
         {
             "title": "Mật Danh: Kế Toán 2",
@@ -25,7 +34,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
             "tmdb_id": 870028,
             "type": "movie",
-            "rank": 3
+            "rank": 4
         },
         {
             "title": "Journey 2: Hòn Đảo Huyền Bí",
@@ -34,7 +43,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/fZvAroq9Vb5hhyKT6TxsjxJW7nm.jpg",
             "tmdb_id": 72545,
             "type": "movie",
-            "rank": 4
+            "rank": 5
         },
         {
             "title": "The Pigeon Hustle",
@@ -43,34 +52,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/35Yft6pf3gR1t08LSbkkgnPoLcJ.jpg",
             "tmdb_id": 1526077,
             "type": "movie",
-            "rank": 5
-        },
-        {
-            "title": "tần số ngầm",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/4mDfScBru6CozdrnV6As3lnvj3Z.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
-            "tmdb_id": 1480387,
-            "type": "movie",
             "rank": 6
-        },
-        {
-            "title": "Hope Springs Eternal: A Look Back at The Shawshank Redemption",
-            "year": "2004",
-            "poster": "https://image.tmdb.org/t/p/w500/v4wcS8XwUn5zl57rYRMzMnKahmt.jpg",
-            "backdrop": null,
-            "tmdb_id": 897459,
-            "type": "movie",
-            "rank": 7
-        },
-        {
-            "title": "Quá Nhanh Quá Nguy Hiểm 9",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/5oaDTTElswDOTEOaO9NquregYCM.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
-            "tmdb_id": 385128,
-            "type": "movie",
-            "rank": 8
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -79,28 +61,34 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "tần số ngầm",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/4mDfScBru6CozdrnV6As3lnvj3Z.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+            "tmdb_id": 1480387,
+            "type": "movie",
+            "rank": 8
+        },
+        {
+            "title": "Quá Nhanh Quá Nguy Hiểm 9",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/5oaDTTElswDOTEOaO9NquregYCM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+            "tmdb_id": 385128,
+            "type": "movie",
             "rank": 9
         },
         {
-            "title": "Khi chồng hợp lực",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
-            "tmdb_id": 1451344,
-            "type": "movie",
+            "title": "Agent Kim Reactivated",
+            "year": "N/A",
+            "status": "no_tmdb",
             "rank": 10
         }
     ],
     "tv_shows": [
-        {
-            "title": "Đặc Vụ Kim Tái Khởi Động",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-            "tmdb_id": 296206,
-            "type": "tv",
-            "rank": 1
-        },
         {
             "title": "Phi Vụ Chung Cư",
             "year": "2026",
@@ -108,7 +96,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
             "tmdb_id": 300727,
             "type": "tv",
-            "rank": 2
+            "rank": 1
         },
         {
             "title": "Bài học đáng đời",
@@ -117,7 +105,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
             "tmdb_id": 276161,
             "type": "tv",
-            "rank": 3
+            "rank": 2
         },
         {
             "title": "Không Dung Thứ",
@@ -126,7 +114,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
             "tmdb_id": 232766,
             "type": "tv",
-            "rank": 4
+            "rank": 3
         },
         {
             "title": "Ngôi nhà nhỏ trên thảo nguyên",
@@ -135,7 +123,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
             "tmdb_id": 283304,
             "type": "tv",
-            "rank": 5
+            "rank": 4
         },
         {
             "title": "Thế Thần: Ngự khí sư cuối cùng",
@@ -144,7 +132,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
             "tmdb_id": 82452,
             "type": "tv",
-            "rank": 6
+            "rank": 5
         },
         {
             "title": "Cha sẽ tìm con",
@@ -153,16 +141,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
             "tmdb_id": 278178,
             "type": "tv",
-            "rank": 7
+            "rank": 6
         },
         {
-            "title": "Thất nghiệp chuyển sinh",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-            "tmdb_id": 94664,
+            "title": "Tシャツが乾くまで",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/9XrKzqOCBdZa2MVoXtdZxDcN0zk.jpg",
+            "tmdb_id": 322570,
             "type": "tv",
-            "rank": 8
+            "rank": 7
         },
         {
             "title": "Trung Tâm Chăm Sóc Chấn Thương",
@@ -171,16 +159,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
             "tmdb_id": 217553,
             "type": "tv",
-            "rank": 9
+            "rank": 8
         },
         {
-            "title": "Người khí",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
-            "tmdb_id": 253960,
+            "title": "Thất nghiệp chuyển sinh",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+            "tmdb_id": 94664,
             "type": "tv",
-            "rank": 10
+            "rank": 9
         }
     ]
 }
