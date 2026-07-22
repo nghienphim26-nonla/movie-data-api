@@ -19,11 +19,11 @@
             "rank": 2
         },
         {
-            "title": "Ted Bunny",
+            "title": "Pet Bunny",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/42AaFCFj9O8cTybOegrCBWH1bvA.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/qzx4kMKg9QEobWrbsLhvtkOMHsV.jpg",
-            "tmdb_id": 1588101,
+            "poster": "https://image.tmdb.org/t/p/w500/rK8RTOOZ7AqiFH8uOJHvE3uQDWZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/bZDM4FhlJh69j0lQcPTvJmtEgg6.jpg",
+            "tmdb_id": 1653363,
             "type": "movie",
             "rank": 3
         },
@@ -55,20 +55,20 @@
             "rank": 6
         },
         {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
-            "type": "movie",
-            "rank": 7
-        },
-        {
             "title": "Quarantine 2: Terminal",
             "year": "2011",
             "poster": "https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/mHMwoMPLkWHsMeNtFZSNSUOOJ1r.jpg",
             "tmdb_id": 59115,
+            "type": "movie",
+            "rank": 7
+        },
+        {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
             "type": "movie",
             "rank": 8
         },
@@ -82,11 +82,11 @@
             "rank": 9
         },
         {
-            "title": "Journey 2: Hòn Đảo Huyền Bí",
-            "year": "2012",
-            "poster": "https://image.tmdb.org/t/p/w500/a0HtE4BMLUsi3y3lAh9isLYjlto.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fZvAroq9Vb5hhyKT6TxsjxJW7nm.jpg",
-            "tmdb_id": 72545,
+            "title": "Haere Mai",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
+            "tmdb_id": 1387782,
             "type": "movie",
             "rank": 10
         }
@@ -111,7 +111,7 @@
             "rank": 2
         },
         {
-            "title": "오싹한 연애",
+            "title": "Chuyện Tình Ma Quái",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
@@ -138,11 +138,11 @@
             "rank": 5
         },
         {
-            "title": "Thất nghiệp chuyển sinh",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-            "tmdb_id": 94664,
+            "title": "Không Dung Thứ",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/flcndH4dpInBrLxlSTqgqjsfNhb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+            "tmdb_id": 232766,
             "type": "tv",
             "rank": 6
         },
@@ -156,22 +156,13 @@
             "rank": 7
         },
         {
-            "title": "Không Dung Thứ",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/flcndH4dpInBrLxlSTqgqjsfNhb.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
-            "tmdb_id": 232766,
+            "title": "Thất nghiệp chuyển sinh",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+            "tmdb_id": 94664,
             "type": "tv",
             "rank": 8
-        },
-        {
-            "title": "Thế Thần: Ngự khí sư cuối cùng",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
-            "tmdb_id": 82452,
-            "type": "tv",
-            "rank": 9
         },
         {
             "title": "Cha sẽ tìm con",
@@ -179,6 +170,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
             "tmdb_id": 278178,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Thế Thần: Ngự khí sư cuối cùng",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+            "tmdb_id": 82452,
             "type": "tv",
             "rank": 10
         }
