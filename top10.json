@@ -37,22 +37,13 @@
             "rank": 4
         },
         {
-            "title": "Platoon07: A Great Marksman",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/bk4fKNO3neaxGzQ6DGRvhUWB5Kj.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/naKmhe6CcUVQKy0DP6c6ccg1L5k.jpg",
-            "tmdb_id": 1125574,
-            "type": "movie",
-            "rank": 5
-        },
-        {
             "title": "Đồng Dao Ma Quái",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/dYr8R3Rnuu6KI0BlJ8w9Ocn5Tzz.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/nGbiKpQ4O9TQV9hpathwAEh18V4.jpg",
             "tmdb_id": 1418308,
             "type": "movie",
-            "rank": 6
+            "rank": 5
         },
         {
             "title": "Quarantine 2: Terminal",
@@ -60,6 +51,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/mHMwoMPLkWHsMeNtFZSNSUOOJ1r.jpg",
             "tmdb_id": 59115,
+            "type": "movie",
+            "rank": 6
+        },
+        {
+            "title": "Platoon07: A Great Marksman",
+            "year": "2021",
+            "poster": "https://image.tmdb.org/t/p/w500/bk4fKNO3neaxGzQ6DGRvhUWB5Kj.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/naKmhe6CcUVQKy0DP6c6ccg1L5k.jpg",
+            "tmdb_id": 1125574,
             "type": "movie",
             "rank": 7
         },
@@ -73,20 +73,20 @@
             "rank": 8
         },
         {
+            "title": "Elize: Sombras de uma Mulher",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/FzZ8NGlSDFYJ7g9f2aURPvItFt.jpg",
+            "tmdb_id": 1487861,
+            "type": "movie",
+            "rank": 9
+        },
+        {
             "title": "Companion",
             "year": "2025",
             "poster": "https://image.tmdb.org/t/p/w500/qhxr0Ktinmm9QcCc8a3FBFDVSyf.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/clh5SBfrZm0LyDBKDSn1qIFOdOd.jpg",
             "tmdb_id": 1578154,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Haere Mai",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
-            "tmdb_id": 1387782,
             "type": "movie",
             "rank": 10
         }
@@ -129,13 +129,22 @@
             "rank": 4
         },
         {
+            "title": "GIGN: Lực lượng tinh nhuệ",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+            "tmdb_id": 281281,
+            "type": "tv",
+            "rank": 5
+        },
+        {
             "title": "Bài học đáng đời",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/mbO0o1cRqoPehYFfHSbxHgLOc1I.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
             "tmdb_id": 276161,
             "type": "tv",
-            "rank": 5
+            "rank": 6
         },
         {
             "title": "Không Dung Thứ",
@@ -144,7 +153,7 @@
             "backdrop": "https://image.tmdb.org/t/p/original/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
             "tmdb_id": 232766,
             "type": "tv",
-            "rank": 6
+            "rank": 7
         },
         {
             "title": "Ác Nữ Nửa Vời ~Truyền Kì Hoán Hồn Đổi Xác~",
@@ -152,15 +161,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/42PzktVKixXyXlZcKWyESpeuXzL.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
             "tmdb_id": 286345,
-            "type": "tv",
-            "rank": 7
-        },
-        {
-            "title": "Thất nghiệp chuyển sinh",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/aRxcXS6VYHNtCdecWe1eGFGLXgV.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-            "tmdb_id": 94664,
             "type": "tv",
             "rank": 8
         },
