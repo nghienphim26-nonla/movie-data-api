@@ -1,22 +1,13 @@
 {
     "movies": [
         {
-            "title": "Xạ Thủ Bắn Tỉa: Vô Tổ Quốc",
+            "title": "คนเดือดทวงแค้น",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
-            "tmdb_id": 1641319,
+            "poster": "https://image.tmdb.org/t/p/w500/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
+            "tmdb_id": 1630409,
             "type": "movie",
             "rank": 1
-        },
-        {
-            "title": "Forbidden Desire",
-            "year": "2024",
-            "poster": "https://image.tmdb.org/t/p/w500/x0IwIYvKzYWraEpKM8yMTQMiFKF.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/kuprUyEGK3qtxSuYLkMVWIek7nO.jpg",
-            "tmdb_id": 1397352,
-            "type": "movie",
-            "rank": 2
         },
         {
             "title": "Pet Bunny",
@@ -24,6 +15,15 @@
             "poster": "https://image.tmdb.org/t/p/w500/rK8RTOOZ7AqiFH8uOJHvE3uQDWZ.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/bZDM4FhlJh69j0lQcPTvJmtEgg6.jpg",
             "tmdb_id": 1653363,
+            "type": "movie",
+            "rank": 2
+        },
+        {
+            "title": "Xạ Thủ Bắn Tỉa: Vô Tổ Quốc",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+            "tmdb_id": 1641319,
             "type": "movie",
             "rank": 3
         },
@@ -37,13 +37,22 @@
             "rank": 4
         },
         {
-            "title": "Đồng Dao Ma Quái",
+            "title": "Elize: Sombras de uma Mulher",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/dYr8R3Rnuu6KI0BlJ8w9Ocn5Tzz.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/nGbiKpQ4O9TQV9hpathwAEh18V4.jpg",
-            "tmdb_id": 1418308,
+            "poster": "https://image.tmdb.org/t/p/w500/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/FzZ8NGlSDFYJ7g9f2aURPvItFt.jpg",
+            "tmdb_id": 1487861,
             "type": "movie",
             "rank": 5
+        },
+        {
+            "title": "Forbidden Desire",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/x0IwIYvKzYWraEpKM8yMTQMiFKF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/kuprUyEGK3qtxSuYLkMVWIek7nO.jpg",
+            "tmdb_id": 1397352,
+            "type": "movie",
+            "rank": 6
         },
         {
             "title": "Quarantine 2: Terminal",
@@ -52,16 +61,16 @@
             "backdrop": "https://image.tmdb.org/t/p/original/mHMwoMPLkWHsMeNtFZSNSUOOJ1r.jpg",
             "tmdb_id": 59115,
             "type": "movie",
-            "rank": 6
+            "rank": 7
         },
         {
-            "title": "Platoon07: A Great Marksman",
-            "year": "2021",
-            "poster": "https://image.tmdb.org/t/p/w500/bk4fKNO3neaxGzQ6DGRvhUWB5Kj.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/naKmhe6CcUVQKy0DP6c6ccg1L5k.jpg",
-            "tmdb_id": 1125574,
+            "title": "Đồng Dao Ma Quái",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/dYr8R3Rnuu6KI0BlJ8w9Ocn5Tzz.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/nGbiKpQ4O9TQV9hpathwAEh18V4.jpg",
+            "tmdb_id": 1418308,
             "type": "movie",
-            "rank": 7
+            "rank": 8
         },
         {
             "title": "Truy Tìm Long Diên Hương",
@@ -70,23 +79,14 @@
             "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
             "tmdb_id": 1569555,
             "type": "movie",
-            "rank": 8
-        },
-        {
-            "title": "Elize: Sombras de uma Mulher",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/FzZ8NGlSDFYJ7g9f2aURPvItFt.jpg",
-            "tmdb_id": 1487861,
-            "type": "movie",
             "rank": 9
         },
         {
-            "title": "Companion",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/qhxr0Ktinmm9QcCc8a3FBFDVSyf.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/clh5SBfrZm0LyDBKDSn1qIFOdOd.jpg",
-            "tmdb_id": 1578154,
+            "title": "Haere Mai",
+            "year": "2024",
+            "poster": "https://image.tmdb.org/t/p/w500/46rMJ3CnXR4HZHNM667e3tuZN1w.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/AuBh6eUygznGz6QwpK84oLWGflo.jpg",
+            "tmdb_id": 1387782,
             "type": "movie",
             "rank": 10
         }
@@ -95,7 +95,7 @@
         {
             "title": "Lời nguyền Đông Cung",
             "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/szXuLTuOWUJ1YXNIr5HEDzGXTEZ.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/wJoNpRjonE3B5vSWMNuBvaIPZvl.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
             "tmdb_id": 279323,
             "type": "tv",
@@ -120,20 +120,20 @@
             "rank": 3
         },
         {
-            "title": "Phi Vụ Chung Cư",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
-            "tmdb_id": 300727,
-            "type": "tv",
-            "rank": 4
-        },
-        {
             "title": "GIGN: Lực lượng tinh nhuệ",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
             "tmdb_id": 281281,
+            "type": "tv",
+            "rank": 4
+        },
+        {
+            "title": "Phi Vụ Chung Cư",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+            "tmdb_id": 300727,
             "type": "tv",
             "rank": 5
         },
@@ -156,29 +156,29 @@
             "rank": 7
         },
         {
-            "title": "Ác Nữ Nửa Vời ~Truyền Kì Hoán Hồn Đổi Xác~",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/42PzktVKixXyXlZcKWyESpeuXzL.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
-            "tmdb_id": 286345,
-            "type": "tv",
-            "rank": 8
-        },
-        {
             "title": "Cha sẽ tìm con",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
             "tmdb_id": 278178,
             "type": "tv",
-            "rank": 9
+            "rank": 8
         },
         {
             "title": "Thế Thần: Ngự khí sư cuối cùng",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
             "tmdb_id": 82452,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Ác Nữ Nửa Vời ~Truyền Kì Hoán Hồn Đổi Xác~",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/42PzktVKixXyXlZcKWyESpeuXzL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
+            "tmdb_id": 286345,
             "type": "tv",
             "rank": 10
         }
