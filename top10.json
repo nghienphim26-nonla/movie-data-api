@@ -4,7 +4,7 @@
             "title": "คนเดือดทวงแค้น",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
             "tmdb_id": 1630409,
             "type": "movie",
             "rank": 1
@@ -31,7 +31,7 @@
             "title": "Elize: Sombras de uma Mulher",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/o795VMV1gpUjhepznZ0Lpp4og3v.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
             "tmdb_id": 1487861,
             "type": "movie",
             "rank": 4
@@ -64,13 +64,22 @@
             "rank": 7
         },
         {
+            "title": "Truy Tìm Long Diên Hương",
+            "year": "2025",
+            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
+            "tmdb_id": 1569555,
+            "type": "movie",
+            "rank": 8
+        },
+        {
             "title": "Quarantine 2: Terminal",
             "year": "2011",
             "poster": "https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/mHMwoMPLkWHsMeNtFZSNSUOOJ1r.jpg",
             "tmdb_id": 59115,
             "type": "movie",
-            "rank": 8
+            "rank": 9
         },
         {
             "title": "Đồng Dao Ma Quái",
@@ -78,15 +87,6 @@
             "poster": "https://image.tmdb.org/t/p/w500/dYr8R3Rnuu6KI0BlJ8w9Ocn5Tzz.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/nGbiKpQ4O9TQV9hpathwAEh18V4.jpg",
             "tmdb_id": 1418308,
-            "type": "movie",
-            "rank": 9
-        },
-        {
-            "title": "Truy Tìm Long Diên Hương",
-            "year": "2025",
-            "poster": "https://image.tmdb.org/t/p/w500/aW5YR7paFxiIeUVG7EIuKh4H8ao.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/80b9tuPdRbJ5gNlSeY9fPGhbb4D.jpg",
-            "tmdb_id": 1569555,
             "type": "movie",
             "rank": 10
         }
@@ -129,20 +129,20 @@
             "rank": 4
         },
         {
-            "title": "Phi Vụ Chung Cư",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
-            "tmdb_id": 300727,
-            "type": "tv",
-            "rank": 5
-        },
-        {
             "title": "Bài học đáng đời",
             "year": "2026",
             "poster": "https://image.tmdb.org/t/p/w500/mbO0o1cRqoPehYFfHSbxHgLOc1I.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
             "tmdb_id": 276161,
+            "type": "tv",
+            "rank": 5
+        },
+        {
+            "title": "Phi Vụ Chung Cư",
+            "year": "2026",
+            "poster": "https://image.tmdb.org/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+            "tmdb_id": 300727,
             "type": "tv",
             "rank": 6
         },
@@ -165,20 +165,20 @@
             "rank": 8
         },
         {
-            "title": "Hút Thuốc Phía Sau Siêu Thị Cùng Em",
-            "year": "2026",
-            "poster": "https://image.tmdb.org/t/p/w500/nG6m8HSjQ3U2cRw7QQaDbu3gtpj.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/original/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
-            "tmdb_id": 296286,
-            "type": "tv",
-            "rank": 9
-        },
-        {
             "title": "Thế Thần: Ngự khí sư cuối cùng",
             "year": "2024",
             "poster": "https://image.tmdb.org/t/p/w500/dkMsZu2cSOopqbSxUSLERQtRgbP.jpg",
             "backdrop": "https://image.tmdb.org/t/p/original/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
             "tmdb_id": 82452,
+            "type": "tv",
+            "rank": 9
+        },
+        {
+            "title": "Tensei shitara Slime Datta Ken: Coleus no Yume",
+            "year": "2022",
+            "poster": "https://image.tmdb.org/t/p/w500/9ZRRzDCVJ1HVhlgHWkUtZvL3yBB.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/rxPTHxHlAOBgMtAxwtL6KcVoSeC.jpg",
+            "tmdb_id": 329020,
             "type": "tv",
             "rank": 10
         }
